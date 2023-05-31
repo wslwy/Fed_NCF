@@ -1,0 +1,41 @@
+client_rank:2
+start
+before init
+after init
+{'model_type': 'GMF', 'dataset_type': 'CIFAR10', 'batch_size': 48, 'data_pattern': 0, 'lr': 0.001, 'decay_rate': 0.99, 'min_lr': 0.001, 'epoch': 5, 'momentum': -1, 'weight_decay': 0.0, 'para': {'item_embeddings.weight': tensor([[ 0.0005,  0.0080,  0.0007,  ..., -0.0055,  0.0045, -0.0130],
+        [-0.0137,  0.0105, -0.0127,  ...,  0.0027,  0.0147,  0.0019],
+        [ 0.0039, -0.0059,  0.0160,  ..., -0.0146,  0.0108,  0.0014],
+        ...,
+        [ 0.0008,  0.0104, -0.0106,  ..., -0.0138,  0.0109,  0.0029],
+        [-0.0143,  0.0110,  0.0252,  ...,  0.0057, -0.0041,  0.0005],
+        [ 0.0046, -0.0006,  0.0144,  ...,  0.0082, -0.0102, -0.0004]]), 'predict_layer.weight': tensor([[ 0.2632, -0.3162, -0.3198,  0.3325, -0.3468, -0.2433, -0.3375,  0.2678]]), 'predict_layer.bias': tensor([0.1574])}, 'data_path': '/data/docker/data', 'tag': 1}
+epoch-1 lr: 0.001
+tensor([[ 0.2632, -0.3162, -0.3198,  0.3325, -0.3468, -0.2433, -0.3375,  0.2678]])
+after aggregation, epoch: 1, train loss: 0.7468649446964264, HR: 0.10596026490066225, NDCG: 0.04909686294412605
+send para
+after send
+get end
+epoch-2 lr: 0.001
+tensor([[ 0.2634, -0.3181, -0.3198,  0.3334, -0.3460, -0.2437, -0.3382,  0.2660]])
+after aggregation, epoch: 2, train loss: 0.747757762670517, HR: 0.10728476821192053, NDCG: 0.04955198655336223
+send para
+after send
+get end
+epoch-3 lr: 0.001
+tensor([[ 0.2624, -0.3200, -0.3187,  0.3328, -0.3477, -0.2449, -0.3382,  0.2652]])
+after aggregation, epoch: 3, train loss: 0.7310546338558197, HR: 0.10860927152317881, NDCG: 0.04978527008234228
+send para
+after send
+get end
+epoch-4 lr: 0.001
+tensor([[ 0.2631, -0.3203, -0.3205,  0.3332, -0.3495, -0.2430, -0.3382,  0.2639]])
+after aggregation, epoch: 4, train loss: 0.7415874302387238, HR: 0.10728476821192053, NDCG: 0.04914930193631803
+send para
+after send
+get end
+epoch-5 lr: 0.001
+tensor([[ 0.2617, -0.3190, -0.3202,  0.3345, -0.3493, -0.2448, -0.3371,  0.2654]])
+after aggregation, epoch: 5, train loss: 0.7408914566040039, HR: 0.10827814569536424, NDCG: 0.049365993529219145
+send para
+after send
+get end
