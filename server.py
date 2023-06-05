@@ -52,7 +52,7 @@ parser.add_argument('--data_pattern', type=int, default=0)
 parser.add_argument('--lr', type=float, default=0.001)
 parser.add_argument('--decay_rate', type=float, default=0.99)
 parser.add_argument('--min_lr', type=float, default=0.001)
-parser.add_argument('--epoch', type=int, default=20)   # 运行epoch数，原定为500
+parser.add_argument('--epoch', type=int, default=1000)   # 运行epoch数，原定为500
 parser.add_argument('--momentum', type=float, default=-1)
 parser.add_argument('--weight_decay', type=float, default=0.0)
 parser.add_argument('--data_path', type=str, default='/data/docker/data')
@@ -153,7 +153,7 @@ def main():
 
     # # recoder: SummaryWriter = SummaryWriter()
     # # 全局不作测试
-    # # global_model.to(device)
+    global_model.to(device)
     # # _, test_dataset = datasets.load_datasets(common_config.dataset_type,common_config.data_path)
     # # test_loader = datasets.create_dataloaders(test_dataset, batch_size=128, shuffle=False)
 

@@ -1,0 +1,111 @@
+client_rank:4
+start
+before init
+after init
+{'model_type': 'GMF', 'dataset_type': 'CIFAR10', 'batch_size': 256, 'data_pattern': 0, 'lr': 0.005, 'decay_rate': 0.99, 'min_lr': 0.001, 'epoch': 20, 'momentum': -1, 'weight_decay': 0.0, 'para': {'item_embeddings.weight': tensor([[ 0.0022, -0.0103,  0.0147,  ...,  0.0035,  0.0003, -0.0007],
+        [-0.0039, -0.0043, -0.0093,  ..., -0.0176, -0.0028, -0.0149],
+        [-0.0043,  0.0009, -0.0008,  ...,  0.0105,  0.0082, -0.0030],
+        ...,
+        [ 0.0087,  0.0180, -0.0002,  ..., -0.0009,  0.0152,  0.0041],
+        [-0.0066,  0.0084,  0.0046,  ...,  0.0164, -0.0133, -0.0109],
+        [-0.0173,  0.0183, -0.0127,  ..., -0.0049,  0.0018, -0.0001]]), 'predict_layer.weight': tensor([[-0.1617, -0.1810, -0.2721, -0.3505, -0.3306, -0.3053, -0.0655, -0.2397]]), 'predict_layer.bias': tensor([-0.2997])}, 'data_path': '/data/docker/data', 'tag': 1}
+epoch-1 lr: 0.005
+after aggregation, epoch: 1, train loss: 0.6118683218955994, HR: 0.09072847682119205, NDCG: 0.04209687348487703
+send para
+after send
+get end
+epoch-2 lr: 0.005
+after aggregation, epoch: 2, train loss: 0.6167848110198975, HR: 0.10331125827814569, NDCG: 0.04890913360242866
+send para
+after send
+get end
+epoch-3 lr: 0.005
+after aggregation, epoch: 3, train loss: 0.6097648441791534, HR: 0.09337748344370861, NDCG: 0.04320117265909557
+send para
+after send
+get end
+epoch-4 lr: 0.005
+after aggregation, epoch: 4, train loss: 0.6147531569004059, HR: 0.09403973509933775, NDCG: 0.04335219675472878
+send para
+after send
+get end
+epoch-5 lr: 0.005
+after aggregation, epoch: 5, train loss: 0.6081730127334595, HR: 0.09602649006622517, NDCG: 0.04458715219455916
+send para
+after send
+get end
+epoch-6 lr: 0.005
+after aggregation, epoch: 6, train loss: 0.598497748374939, HR: 0.10397350993377484, NDCG: 0.047812556545092526
+send para
+after send
+get end
+epoch-7 lr: 0.005
+after aggregation, epoch: 7, train loss: 0.6104454398155212, HR: 0.10264900662251655, NDCG: 0.04626077490135221
+send para
+after send
+get end
+epoch-8 lr: 0.005
+after aggregation, epoch: 8, train loss: 0.5948014557361603, HR: 0.10264900662251655, NDCG: 0.04913514862696164
+send para
+after send
+get end
+epoch-9 lr: 0.005
+after aggregation, epoch: 9, train loss: 0.5926031172275543, HR: 0.10860927152317881, NDCG: 0.05049877427142979
+send para
+after send
+get end
+epoch-10 lr: 0.005
+after aggregation, epoch: 10, train loss: 0.6020044684410095, HR: 0.10662251655629139, NDCG: 0.04907259333406235
+send para
+after send
+get end
+epoch-11 lr: 0.005
+after aggregation, epoch: 11, train loss: 0.6016780734062195, HR: 0.10198675496688742, NDCG: 0.048640588065002634
+send para
+after send
+get end
+epoch-12 lr: 0.005
+after aggregation, epoch: 12, train loss: 0.5862669348716736, HR: 0.09337748344370861, NDCG: 0.04630657007589287
+send para
+after send
+get end
+epoch-13 lr: 0.005
+after aggregation, epoch: 13, train loss: 0.5982924401760101, HR: 0.09205298013245033, NDCG: 0.045145129049793294
+send para
+after send
+get end
+epoch-14 lr: 0.005
+after aggregation, epoch: 14, train loss: 0.5880568325519562, HR: 0.10198675496688742, NDCG: 0.047030681520689184
+send para
+after send
+get end
+epoch-15 lr: 0.005
+after aggregation, epoch: 15, train loss: 0.580153226852417, HR: 0.09072847682119205, NDCG: 0.043749114007541445
+send para
+after send
+get end
+epoch-16 lr: 0.005
+after aggregation, epoch: 16, train loss: 0.5878384709358215, HR: 0.09933774834437085, NDCG: 0.04465250928418258
+send para
+after send
+get end
+epoch-17 lr: 0.005
+after aggregation, epoch: 17, train loss: 0.5870202779769897, HR: 0.09668874172185431, NDCG: 0.04451906853437548
+send para
+after send
+get end
+epoch-18 lr: 0.005
+after aggregation, epoch: 18, train loss: 0.5778951942920685, HR: 0.08278145695364239, NDCG: 0.038479986500781306
+send para
+after send
+get end
+epoch-19 lr: 0.005
+after aggregation, epoch: 19, train loss: 0.5788695812225342, HR: 0.09536423841059603, NDCG: 0.04453858003287639
+send para
+after send
+get end
+epoch-20 lr: 0.005
+after aggregation, epoch: 20, train loss: 0.5809088349342346, HR: 0.10132450331125828, NDCG: 0.046313276182504734
+send para
+after send
+get end

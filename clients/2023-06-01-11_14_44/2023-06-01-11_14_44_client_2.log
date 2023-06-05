@@ -1,0 +1,15 @@
+client_rank:2
+start
+before init
+after init
+{'model_type': 'GMF', 'dataset_type': 'CIFAR10', 'batch_size': 256, 'data_pattern': 0, 'lr': 0.001, 'decay_rate': 0.99, 'min_lr': 0.001, 'epoch': 2, 'momentum': -1, 'weight_decay': 0.0, 'para': {'item_embeddings.weight': tensor([[-0.0132, -0.0295, -0.0016,  ..., -0.0113,  0.0019, -0.0027],
+        [ 0.0002, -0.0144,  0.0031,  ...,  0.0034, -0.0139,  0.0050],
+        [-0.0065,  0.0103, -0.0085,  ...,  0.0030,  0.0132, -0.0072],
+        ...,
+        [-0.0075,  0.0285,  0.0113,  ..., -0.0004, -0.0050, -0.0017],
+        [ 0.0028,  0.0101, -0.0048,  ...,  0.0081, -0.0087, -0.0006],
+        [-0.0054,  0.0131,  0.0137,  ...,  0.0130, -0.0233,  0.0036]]), 'predict_layer.weight': tensor([[-0.1063,  0.3133, -0.0290,  0.2217,  0.3058,  0.2584,  0.1381,  0.2694]]), 'predict_layer.bias': tensor([-0.3508])}, 'data_path': '/data/docker/data', 'tag': 1}
+epoch-1 lr: 0.001
+after aggregation, epoch: 1, train loss: 0.6062455773353577, HR: 0.09668874172185431, NDCG: 0.04320618760366135
+send para
+after send

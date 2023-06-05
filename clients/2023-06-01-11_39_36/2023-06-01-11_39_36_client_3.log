@@ -1,0 +1,2511 @@
+client_rank:3
+start
+before init
+after init
+{'model_type': 'GMF', 'dataset_type': 'CIFAR10', 'batch_size': 256, 'data_pattern': 0, 'lr': 0.005, 'decay_rate': 0.99, 'min_lr': 0.001, 'epoch': 500, 'momentum': -1, 'weight_decay': 0.0, 'para': {'item_embeddings.weight': tensor([[-0.0028, -0.0119,  0.0023,  ..., -0.0045, -0.0070, -0.0030],
+        [-0.0006, -0.0061,  0.0072,  ...,  0.0008,  0.0010, -0.0036],
+        [-0.0067,  0.0108,  0.0104,  ...,  0.0146,  0.0021,  0.0108],
+        ...,
+        [ 0.0096, -0.0011, -0.0102,  ..., -0.0107, -0.0046,  0.0017],
+        [-0.0027,  0.0113, -0.0008,  ..., -0.0057, -0.0044, -0.0025],
+        [ 0.0071, -0.0091,  0.0183,  ..., -0.0053,  0.0098, -0.0128]]), 'predict_layer.weight': tensor([[-0.2546,  0.1424,  0.2071, -0.0969, -0.2412,  0.1204,  0.0498, -0.0416]]), 'predict_layer.bias': tensor([0.3406])}, 'data_path': '/data/docker/data', 'tag': 1}
+epoch-1 lr: 0.005
+after aggregation, epoch: 1, train loss: 0.8011355698108673, HR: 0.09403973509933775, NDCG: 0.04099855411310107
+send para
+after send
+get end
+epoch-2 lr: 0.005
+after aggregation, epoch: 2, train loss: 0.8103321194648743, HR: 0.09933774834437085, NDCG: 0.04536236853369776
+send para
+after send
+get end
+epoch-3 lr: 0.005
+after aggregation, epoch: 3, train loss: 0.8069941997528076, HR: 0.0814569536423841, NDCG: 0.03719084394624763
+send para
+after send
+get end
+epoch-4 lr: 0.005
+after aggregation, epoch: 4, train loss: 0.7910407185554504, HR: 0.09006622516556291, NDCG: 0.041423890084109606
+send para
+after send
+get end
+epoch-5 lr: 0.005
+after aggregation, epoch: 5, train loss: 0.7967929244041443, HR: 0.09933774834437085, NDCG: 0.044299409561057414
+send para
+after send
+get end
+epoch-6 lr: 0.005
+after aggregation, epoch: 6, train loss: 0.7918557226657867, HR: 0.09668874172185431, NDCG: 0.04473464732706834
+send para
+after send
+get end
+epoch-7 lr: 0.005
+after aggregation, epoch: 7, train loss: 0.784888505935669, HR: 0.09536423841059603, NDCG: 0.04344275873505196
+send para
+after send
+get end
+epoch-8 lr: 0.005
+after aggregation, epoch: 8, train loss: 0.7859076261520386, HR: 0.10264900662251655, NDCG: 0.047853993047177246
+send para
+after send
+get end
+epoch-9 lr: 0.005
+after aggregation, epoch: 9, train loss: 0.7901995182037354, HR: 0.10794701986754966, NDCG: 0.04868337617724225
+send para
+after send
+get end
+epoch-10 lr: 0.005
+after aggregation, epoch: 10, train loss: 0.7798206210136414, HR: 0.11059602649006622, NDCG: 0.052333069753573866
+send para
+after send
+get end
+epoch-11 lr: 0.005
+after aggregation, epoch: 11, train loss: 0.7732096612453461, HR: 0.10927152317880795, NDCG: 0.0517766614085426
+send para
+after send
+get end
+epoch-12 lr: 0.005
+after aggregation, epoch: 12, train loss: 0.7678572535514832, HR: 0.1, NDCG: 0.04706100745041843
+send para
+after send
+get end
+epoch-13 lr: 0.005
+after aggregation, epoch: 13, train loss: 0.765591561794281, HR: 0.09735099337748344, NDCG: 0.04983749293778927
+send para
+after send
+get end
+epoch-14 lr: 0.005
+after aggregation, epoch: 14, train loss: 0.7611387968063354, HR: 0.09801324503311258, NDCG: 0.048108713120272074
+send para
+after send
+get end
+epoch-15 lr: 0.005
+after aggregation, epoch: 15, train loss: 0.7603475451469421, HR: 0.11125827814569536, NDCG: 0.054219449516684476
+send para
+after send
+get end
+epoch-16 lr: 0.005
+after aggregation, epoch: 16, train loss: 0.7563319504261017, HR: 0.10927152317880795, NDCG: 0.050880663086596736
+send para
+after send
+get end
+epoch-17 lr: 0.005
+after aggregation, epoch: 17, train loss: 0.7531569302082062, HR: 0.10927152317880795, NDCG: 0.05117348183449094
+send para
+after send
+get end
+epoch-18 lr: 0.005
+after aggregation, epoch: 18, train loss: 0.7459255754947662, HR: 0.10728476821192053, NDCG: 0.05231337175599117
+send para
+after send
+get end
+epoch-19 lr: 0.005
+after aggregation, epoch: 19, train loss: 0.7453222572803497, HR: 0.10529801324503311, NDCG: 0.051236647243269706
+send para
+after send
+get end
+epoch-20 lr: 0.005
+after aggregation, epoch: 20, train loss: 0.7421869039535522, HR: 0.10132450331125828, NDCG: 0.0523222644492453
+send para
+after send
+get end
+epoch-21 lr: 0.005
+after aggregation, epoch: 21, train loss: 0.7360999882221222, HR: 0.09801324503311258, NDCG: 0.04972511076807061
+send para
+after send
+get end
+epoch-22 lr: 0.005
+after aggregation, epoch: 22, train loss: 0.7322039306163788, HR: 0.10728476821192053, NDCG: 0.050787246710392336
+send para
+after send
+get end
+epoch-23 lr: 0.005
+after aggregation, epoch: 23, train loss: 0.7297385334968567, HR: 0.09801324503311258, NDCG: 0.049037631000926146
+send para
+after send
+get end
+epoch-24 lr: 0.005
+after aggregation, epoch: 24, train loss: 0.7280284762382507, HR: 0.09801324503311258, NDCG: 0.04857255586270953
+send para
+after send
+get end
+epoch-25 lr: 0.005
+after aggregation, epoch: 25, train loss: 0.7254345118999481, HR: 0.09933774834437085, NDCG: 0.05020765409276316
+send para
+after send
+get end
+epoch-26 lr: 0.005
+after aggregation, epoch: 26, train loss: 0.7222603857517242, HR: 0.10927152317880795, NDCG: 0.052708257579124465
+send para
+after send
+get end
+epoch-27 lr: 0.005
+after aggregation, epoch: 27, train loss: 0.7191346883773804, HR: 0.10728476821192053, NDCG: 0.05101527415047152
+send para
+after send
+get end
+epoch-28 lr: 0.005
+after aggregation, epoch: 28, train loss: 0.7118171155452728, HR: 0.10794701986754966, NDCG: 0.050737397696737095
+send para
+after send
+get end
+epoch-29 lr: 0.005
+after aggregation, epoch: 29, train loss: 0.7120175659656525, HR: 0.10860927152317881, NDCG: 0.0533805081832502
+send para
+after send
+get end
+epoch-30 lr: 0.005
+after aggregation, epoch: 30, train loss: 0.7078177034854889, HR: 0.11390728476821192, NDCG: 0.05287865153390683
+send para
+after send
+get end
+epoch-31 lr: 0.005
+after aggregation, epoch: 31, train loss: 0.7048029601573944, HR: 0.1119205298013245, NDCG: 0.05207152625537624
+send para
+after send
+get end
+epoch-32 lr: 0.005
+after aggregation, epoch: 32, train loss: 0.7017430663108826, HR: 0.11456953642384106, NDCG: 0.05750133600496123
+send para
+after send
+get end
+epoch-33 lr: 0.005
+after aggregation, epoch: 33, train loss: 0.6986769437789917, HR: 0.11324503311258279, NDCG: 0.05230718371937201
+send para
+after send
+get end
+epoch-34 lr: 0.005
+after aggregation, epoch: 34, train loss: 0.6957541704177856, HR: 0.11324503311258279, NDCG: 0.05603398789250641
+send para
+after send
+get end
+epoch-35 lr: 0.005
+after aggregation, epoch: 35, train loss: 0.6926714777946472, HR: 0.11589403973509933, NDCG: 0.054956835472096115
+send para
+after send
+get end
+epoch-36 lr: 0.005
+after aggregation, epoch: 36, train loss: 0.6897228956222534, HR: 0.11920529801324503, NDCG: 0.055661872230938776
+send para
+after send
+get end
+epoch-37 lr: 0.005
+after aggregation, epoch: 37, train loss: 0.6866517961025238, HR: 0.11456953642384106, NDCG: 0.05210093212472355
+send para
+after send
+get end
+epoch-38 lr: 0.005
+after aggregation, epoch: 38, train loss: 0.6849145293235779, HR: 0.1152317880794702, NDCG: 0.05326811173674287
+send para
+after send
+get end
+epoch-39 lr: 0.005
+after aggregation, epoch: 39, train loss: 0.6800354719161987, HR: 0.1205298013245033, NDCG: 0.05692481729976366
+send para
+after send
+get end
+epoch-40 lr: 0.005
+after aggregation, epoch: 40, train loss: 0.6785007417201996, HR: 0.12251655629139073, NDCG: 0.05708598923404795
+send para
+after send
+get end
+epoch-41 lr: 0.005
+after aggregation, epoch: 41, train loss: 0.6767731308937073, HR: 0.12582781456953643, NDCG: 0.057117465988966935
+send para
+after send
+get end
+epoch-42 lr: 0.005
+after aggregation, epoch: 42, train loss: 0.6716996729373932, HR: 0.12251655629139073, NDCG: 0.054965571802426526
+send para
+after send
+get end
+epoch-43 lr: 0.005
+after aggregation, epoch: 43, train loss: 0.6683965027332306, HR: 0.11456953642384106, NDCG: 0.052695119075565656
+send para
+after send
+get end
+epoch-44 lr: 0.005
+after aggregation, epoch: 44, train loss: 0.6688156723976135, HR: 0.11258278145695365, NDCG: 0.05440428974170843
+send para
+after send
+get end
+epoch-45 lr: 0.005
+after aggregation, epoch: 45, train loss: 0.6701600551605225, HR: 0.1119205298013245, NDCG: 0.05292800295169614
+send para
+after send
+get end
+epoch-46 lr: 0.005
+after aggregation, epoch: 46, train loss: 0.6610646843910217, HR: 0.11125827814569536, NDCG: 0.05376125119920077
+send para
+after send
+get end
+epoch-47 lr: 0.005
+after aggregation, epoch: 47, train loss: 0.6567621827125549, HR: 0.11920529801324503, NDCG: 0.05466557722191628
+send para
+after send
+get end
+epoch-48 lr: 0.005
+after aggregation, epoch: 48, train loss: 0.6564148366451263, HR: 0.11920529801324503, NDCG: 0.05485894581438327
+send para
+after send
+get end
+epoch-49 lr: 0.005
+after aggregation, epoch: 49, train loss: 0.648992657661438, HR: 0.12317880794701987, NDCG: 0.05593974159277784
+send para
+after send
+get end
+epoch-50 lr: 0.005
+after aggregation, epoch: 50, train loss: 0.6497896909713745, HR: 0.11258278145695365, NDCG: 0.05287163047554307
+send para
+after send
+get end
+epoch-51 lr: 0.005
+after aggregation, epoch: 51, train loss: 0.6463437974452972, HR: 0.1152317880794702, NDCG: 0.052679013052473474
+send para
+after send
+get end
+epoch-52 lr: 0.005
+after aggregation, epoch: 52, train loss: 0.641193151473999, HR: 0.11125827814569536, NDCG: 0.053121769043775996
+send para
+after send
+get end
+epoch-53 lr: 0.005
+after aggregation, epoch: 53, train loss: 0.6426640450954437, HR: 0.10728476821192053, NDCG: 0.05143253943999443
+send para
+after send
+get end
+epoch-54 lr: 0.005
+after aggregation, epoch: 54, train loss: 0.6420224905014038, HR: 0.09867549668874172, NDCG: 0.04821590983321359
+send para
+after send
+get end
+epoch-55 lr: 0.005
+after aggregation, epoch: 55, train loss: 0.63761967420578, HR: 0.10529801324503311, NDCG: 0.04845049784441209
+send para
+after send
+get end
+epoch-56 lr: 0.005
+after aggregation, epoch: 56, train loss: 0.6371672749519348, HR: 0.10132450331125828, NDCG: 0.0503010356542015
+send para
+after send
+get end
+epoch-57 lr: 0.005
+after aggregation, epoch: 57, train loss: 0.6309144496917725, HR: 0.10331125827814569, NDCG: 0.04949676601840427
+send para
+after send
+get end
+epoch-58 lr: 0.005
+after aggregation, epoch: 58, train loss: 0.6288662552833557, HR: 0.10066225165562914, NDCG: 0.048073610620543855
+send para
+after send
+get end
+epoch-59 lr: 0.005
+after aggregation, epoch: 59, train loss: 0.6344312429428101, HR: 0.10860927152317881, NDCG: 0.05022272770401034
+send para
+after send
+get end
+epoch-60 lr: 0.005
+after aggregation, epoch: 60, train loss: 0.6141288578510284, HR: 0.10331125827814569, NDCG: 0.04945838504399004
+send para
+after send
+get end
+epoch-61 lr: 0.005
+after aggregation, epoch: 61, train loss: 0.627098947763443, HR: 0.10397350993377484, NDCG: 0.04897776266358255
+send para
+after send
+get end
+epoch-62 lr: 0.005
+after aggregation, epoch: 62, train loss: 0.6234062314033508, HR: 0.10993377483443709, NDCG: 0.0518110369098439
+send para
+after send
+get end
+epoch-63 lr: 0.005
+after aggregation, epoch: 63, train loss: 0.615096926689148, HR: 0.10860927152317881, NDCG: 0.05091193710896576
+send para
+after send
+get end
+epoch-64 lr: 0.005
+after aggregation, epoch: 64, train loss: 0.6246609091758728, HR: 0.11390728476821192, NDCG: 0.053854110455881204
+send para
+after send
+get end
+epoch-65 lr: 0.005
+after aggregation, epoch: 65, train loss: 0.6097137629985809, HR: 0.10529801324503311, NDCG: 0.05168024223467073
+send para
+after send
+get end
+epoch-66 lr: 0.005
+after aggregation, epoch: 66, train loss: 0.6134174466133118, HR: 0.10927152317880795, NDCG: 0.05225056239042462
+send para
+after send
+get end
+epoch-67 lr: 0.005
+after aggregation, epoch: 67, train loss: 0.6112114787101746, HR: 0.10860927152317881, NDCG: 0.0507964273708075
+send para
+after send
+get end
+epoch-68 lr: 0.005
+after aggregation, epoch: 68, train loss: 0.6032666862010956, HR: 0.10927152317880795, NDCG: 0.05048847333306637
+send para
+after send
+get end
+epoch-69 lr: 0.005
+after aggregation, epoch: 69, train loss: 0.6036087274551392, HR: 0.11788079470198676, NDCG: 0.052733395898744005
+send para
+after send
+get end
+epoch-70 lr: 0.005
+after aggregation, epoch: 70, train loss: 0.5960429608821869, HR: 0.11390728476821192, NDCG: 0.0528163251164462
+send para
+after send
+get end
+epoch-71 lr: 0.005
+after aggregation, epoch: 71, train loss: 0.5979095101356506, HR: 0.11390728476821192, NDCG: 0.053059718453301534
+send para
+after send
+get end
+epoch-72 lr: 0.005
+after aggregation, epoch: 72, train loss: 0.5993247330188751, HR: 0.1119205298013245, NDCG: 0.052973793341838306
+send para
+after send
+get end
+epoch-73 lr: 0.005
+after aggregation, epoch: 73, train loss: 0.6084706783294678, HR: 0.10794701986754966, NDCG: 0.05217079581876924
+send para
+after send
+get end
+epoch-74 lr: 0.005
+after aggregation, epoch: 74, train loss: 0.5968211889266968, HR: 0.1119205298013245, NDCG: 0.052053735491421116
+send para
+after send
+get end
+epoch-75 lr: 0.005
+after aggregation, epoch: 75, train loss: 0.593203604221344, HR: 0.1152317880794702, NDCG: 0.05460792311266076
+send para
+after send
+get end
+epoch-76 lr: 0.005
+after aggregation, epoch: 76, train loss: 0.6065008640289307, HR: 0.12251655629139073, NDCG: 0.056662508604587936
+send para
+after send
+get end
+epoch-77 lr: 0.005
+after aggregation, epoch: 77, train loss: 0.5843302607536316, HR: 0.1152317880794702, NDCG: 0.05628600462528745
+send para
+after send
+get end
+epoch-78 lr: 0.005
+after aggregation, epoch: 78, train loss: 0.5832158029079437, HR: 0.12582781456953643, NDCG: 0.06120611283919982
+send para
+after send
+get end
+epoch-79 lr: 0.005
+after aggregation, epoch: 79, train loss: 0.5976141691207886, HR: 0.12847682119205298, NDCG: 0.06052152293063441
+send para
+after send
+get end
+epoch-80 lr: 0.005
+after aggregation, epoch: 80, train loss: 0.5817527174949646, HR: 0.12582781456953643, NDCG: 0.06031904202915475
+send para
+after send
+get end
+epoch-81 lr: 0.005
+after aggregation, epoch: 81, train loss: 0.5781428217887878, HR: 0.12317880794701987, NDCG: 0.05979147875230423
+send para
+after send
+get end
+epoch-82 lr: 0.005
+after aggregation, epoch: 82, train loss: 0.5669465661048889, HR: 0.12847682119205298, NDCG: 0.0624329993195356
+send para
+after send
+get end
+epoch-83 lr: 0.005
+after aggregation, epoch: 83, train loss: 0.5874375104904175, HR: 0.1304635761589404, NDCG: 0.06425703021849351
+send para
+after send
+get end
+epoch-84 lr: 0.005
+after aggregation, epoch: 84, train loss: 0.5771428942680359, HR: 0.1317880794701987, NDCG: 0.063910693790692
+send para
+after send
+get end
+epoch-85 lr: 0.005
+after aggregation, epoch: 85, train loss: 0.5882224440574646, HR: 0.13245033112582782, NDCG: 0.06345084607281856
+send para
+after send
+get end
+epoch-86 lr: 0.005
+after aggregation, epoch: 86, train loss: 0.5707027614116669, HR: 0.1304635761589404, NDCG: 0.06361466775273489
+send para
+after send
+get end
+epoch-87 lr: 0.005
+after aggregation, epoch: 87, train loss: 0.5648583471775055, HR: 0.13642384105960265, NDCG: 0.06351285840048221
+send para
+after send
+get end
+epoch-88 lr: 0.005
+after aggregation, epoch: 88, train loss: 0.5526700615882874, HR: 0.12781456953642384, NDCG: 0.06276144749461876
+send para
+after send
+get end
+epoch-89 lr: 0.005
+after aggregation, epoch: 89, train loss: 0.5633840560913086, HR: 0.14105960264900663, NDCG: 0.068125619281677
+send para
+after send
+get end
+epoch-90 lr: 0.005
+after aggregation, epoch: 90, train loss: 0.5573291480541229, HR: 0.13245033112582782, NDCG: 0.06528064326353863
+send para
+after send
+get end
+epoch-91 lr: 0.005
+after aggregation, epoch: 91, train loss: 0.5499963462352753, HR: 0.15033112582781458, NDCG: 0.0713280878430859
+send para
+after send
+get end
+epoch-92 lr: 0.005
+after aggregation, epoch: 92, train loss: 0.5559851229190826, HR: 0.14304635761589404, NDCG: 0.07038997475978341
+send para
+after send
+get end
+epoch-93 lr: 0.005
+after aggregation, epoch: 93, train loss: 0.5600434839725494, HR: 0.1456953642384106, NDCG: 0.07311247029353134
+send para
+after send
+get end
+epoch-94 lr: 0.005
+after aggregation, epoch: 94, train loss: 0.5629290640354156, HR: 0.15894039735099338, NDCG: 0.07939098812955392
+send para
+after send
+get end
+epoch-95 lr: 0.005
+after aggregation, epoch: 95, train loss: 0.5474002361297607, HR: 0.1609271523178808, NDCG: 0.08221092062477584
+send para
+after send
+get end
+epoch-96 lr: 0.005
+after aggregation, epoch: 96, train loss: 0.5314094722270966, HR: 0.16357615894039734, NDCG: 0.081105040393122
+send para
+after send
+get end
+epoch-97 lr: 0.005
+after aggregation, epoch: 97, train loss: 0.5683530271053314, HR: 0.16688741721854305, NDCG: 0.08531341257528617
+send para
+after send
+get end
+epoch-98 lr: 0.005
+after aggregation, epoch: 98, train loss: 0.5560004413127899, HR: 0.1675496688741722, NDCG: 0.08608426795985265
+send para
+after send
+get end
+epoch-99 lr: 0.005
+after aggregation, epoch: 99, train loss: 0.549584835767746, HR: 0.17350993377483442, NDCG: 0.0862736148636112
+send para
+after send
+get end
+epoch-100 lr: 0.005
+after aggregation, epoch: 100, train loss: 0.5479929149150848, HR: 0.17350993377483442, NDCG: 0.0886760065689039
+send para
+after send
+get end
+epoch-101 lr: 0.005
+after aggregation, epoch: 101, train loss: 0.5582216680049896, HR: 0.18211920529801323, NDCG: 0.09494596511186446
+send para
+after send
+get end
+epoch-102 lr: 0.005
+after aggregation, epoch: 102, train loss: 0.5647412240505219, HR: 0.1847682119205298, NDCG: 0.09574790456594011
+send para
+after send
+get end
+epoch-103 lr: 0.005
+after aggregation, epoch: 103, train loss: 0.5331124663352966, HR: 0.18874172185430463, NDCG: 0.09706298472884865
+send para
+after send
+get end
+epoch-104 lr: 0.005
+after aggregation, epoch: 104, train loss: 0.5410760939121246, HR: 0.1947019867549669, NDCG: 0.10026789869258962
+send para
+after send
+get end
+epoch-105 lr: 0.005
+after aggregation, epoch: 105, train loss: 0.5533238053321838, HR: 0.20596026490066224, NDCG: 0.10715771633866086
+send para
+after send
+get end
+epoch-106 lr: 0.005
+after aggregation, epoch: 106, train loss: 0.5313069820404053, HR: 0.21125827814569537, NDCG: 0.10985574396886484
+send para
+after send
+get end
+epoch-107 lr: 0.005
+after aggregation, epoch: 107, train loss: 0.5200369358062744, HR: 0.21721854304635763, NDCG: 0.110718427069664
+send para
+after send
+get end
+epoch-108 lr: 0.005
+after aggregation, epoch: 108, train loss: 0.5285051167011261, HR: 0.21324503311258278, NDCG: 0.11073619337066729
+send para
+after send
+get end
+epoch-109 lr: 0.005
+after aggregation, epoch: 109, train loss: 0.5327616631984711, HR: 0.2324503311258278, NDCG: 0.11934333590874924
+send para
+after send
+get end
+epoch-110 lr: 0.005
+after aggregation, epoch: 110, train loss: 0.5359756350517273, HR: 0.23112582781456953, NDCG: 0.11967846434010843
+send para
+after send
+get end
+epoch-111 lr: 0.005
+after aggregation, epoch: 111, train loss: 0.5346692502498627, HR: 0.23774834437086093, NDCG: 0.12146104035023386
+send para
+after send
+get end
+epoch-112 lr: 0.005
+after aggregation, epoch: 112, train loss: 0.5245274007320404, HR: 0.2271523178807947, NDCG: 0.11968583142807954
+send para
+after send
+get end
+epoch-113 lr: 0.005
+after aggregation, epoch: 113, train loss: 0.5247911810874939, HR: 0.23509933774834438, NDCG: 0.12426003412863591
+send para
+after send
+get end
+epoch-114 lr: 0.005
+after aggregation, epoch: 114, train loss: 0.5465500950813293, HR: 0.23973509933774834, NDCG: 0.12575962983503494
+send para
+after send
+get end
+epoch-115 lr: 0.005
+after aggregation, epoch: 115, train loss: 0.5392314791679382, HR: 0.24503311258278146, NDCG: 0.12887644405715373
+send para
+after send
+get end
+epoch-116 lr: 0.005
+after aggregation, epoch: 116, train loss: 0.5257920622825623, HR: 0.24701986754966887, NDCG: 0.12834773115726933
+send para
+after send
+get end
+epoch-117 lr: 0.005
+after aggregation, epoch: 117, train loss: 0.526230126619339, HR: 0.25695364238410595, NDCG: 0.13445473389667198
+send para
+after send
+get end
+epoch-118 lr: 0.005
+after aggregation, epoch: 118, train loss: 0.5025324076414108, HR: 0.26225165562913905, NDCG: 0.13614741199894664
+send para
+after send
+get end
+epoch-119 lr: 0.005
+after aggregation, epoch: 119, train loss: 0.5503446459770203, HR: 0.2635761589403974, NDCG: 0.13638394776058838
+send para
+after send
+get end
+epoch-120 lr: 0.005
+after aggregation, epoch: 120, train loss: 0.5446778535842896, HR: 0.2682119205298013, NDCG: 0.14073192890297845
+send para
+after send
+get end
+epoch-121 lr: 0.005
+after aggregation, epoch: 121, train loss: 0.5437839925289154, HR: 0.27019867549668874, NDCG: 0.1431318411590648
+send para
+after send
+get end
+epoch-122 lr: 0.005
+after aggregation, epoch: 122, train loss: 0.5090842545032501, HR: 0.2721854304635762, NDCG: 0.14246779543785995
+send para
+after send
+get end
+epoch-123 lr: 0.005
+after aggregation, epoch: 123, train loss: 0.5300847291946411, HR: 0.2774834437086093, NDCG: 0.14674663906953797
+send para
+after send
+get end
+epoch-124 lr: 0.005
+after aggregation, epoch: 124, train loss: 0.5066552758216858, HR: 0.2827814569536424, NDCG: 0.148825928289157
+send para
+after send
+get end
+epoch-125 lr: 0.005
+after aggregation, epoch: 125, train loss: 0.4950755387544632, HR: 0.28410596026490065, NDCG: 0.15211001124034848
+send para
+after send
+get end
+epoch-126 lr: 0.005
+after aggregation, epoch: 126, train loss: 0.5435785055160522, HR: 0.2933774834437086, NDCG: 0.1533363463225975
+send para
+after send
+get end
+epoch-127 lr: 0.005
+after aggregation, epoch: 127, train loss: 0.5250571668148041, HR: 0.3, NDCG: 0.15894034990952138
+send para
+after send
+get end
+epoch-128 lr: 0.005
+after aggregation, epoch: 128, train loss: 0.5241639614105225, HR: 0.304635761589404, NDCG: 0.16496958431889952
+send para
+after send
+get end
+epoch-129 lr: 0.005
+after aggregation, epoch: 129, train loss: 0.5069136917591095, HR: 0.3072847682119205, NDCG: 0.16463050830209175
+send para
+after send
+get end
+epoch-130 lr: 0.005
+after aggregation, epoch: 130, train loss: 0.4984009861946106, HR: 0.31059602649006623, NDCG: 0.166061162825546
+send para
+after send
+get end
+epoch-131 lr: 0.005
+after aggregation, epoch: 131, train loss: 0.5216185450553894, HR: 0.31125827814569534, NDCG: 0.16877928507216494
+send para
+after send
+get end
+epoch-132 lr: 0.005
+after aggregation, epoch: 132, train loss: 0.5096571296453476, HR: 0.31788079470198677, NDCG: 0.16748169711483907
+send para
+after send
+get end
+epoch-133 lr: 0.005
+after aggregation, epoch: 133, train loss: 0.5320708751678467, HR: 0.3205298013245033, NDCG: 0.17136315364841292
+send para
+after send
+get end
+epoch-134 lr: 0.005
+after aggregation, epoch: 134, train loss: 0.5159295201301575, HR: 0.32384105960264903, NDCG: 0.1723694302534767
+send para
+after send
+get end
+epoch-135 lr: 0.005
+after aggregation, epoch: 135, train loss: 0.5033007562160492, HR: 0.31920529801324504, NDCG: 0.17267638531294055
+send para
+after send
+get end
+epoch-136 lr: 0.005
+after aggregation, epoch: 136, train loss: 0.5204744935035706, HR: 0.3304635761589404, NDCG: 0.17655607401642073
+send para
+after send
+get end
+epoch-137 lr: 0.005
+after aggregation, epoch: 137, train loss: 0.5218002498149872, HR: 0.33311258278145695, NDCG: 0.17980411270380633
+send para
+after send
+get end
+epoch-138 lr: 0.005
+after aggregation, epoch: 138, train loss: 0.4890086352825165, HR: 0.33311258278145695, NDCG: 0.18017212727881554
+send para
+after send
+get end
+epoch-139 lr: 0.005
+after aggregation, epoch: 139, train loss: 0.5286096930503845, HR: 0.33311258278145695, NDCG: 0.17972079838091082
+send para
+after send
+get end
+epoch-140 lr: 0.005
+after aggregation, epoch: 140, train loss: 0.4948083758354187, HR: 0.33642384105960266, NDCG: 0.18188223732659825
+send para
+after send
+get end
+epoch-141 lr: 0.005
+after aggregation, epoch: 141, train loss: 0.49011915922164917, HR: 0.3337748344370861, NDCG: 0.18047201096799328
+send para
+after send
+get end
+epoch-142 lr: 0.005
+after aggregation, epoch: 142, train loss: 0.5236431360244751, HR: 0.34172185430463575, NDCG: 0.18509308703841812
+send para
+after send
+get end
+epoch-143 lr: 0.005
+after aggregation, epoch: 143, train loss: 0.5137131810188293, HR: 0.3437086092715232, NDCG: 0.18525594476346202
+send para
+after send
+get end
+epoch-144 lr: 0.005
+after aggregation, epoch: 144, train loss: 0.5181740969419479, HR: 0.34701986754966885, NDCG: 0.18748524850800166
+send para
+after send
+get end
+epoch-145 lr: 0.005
+after aggregation, epoch: 145, train loss: 0.5238457918167114, HR: 0.34701986754966885, NDCG: 0.18770496970791198
+send para
+after send
+get end
+epoch-146 lr: 0.005
+after aggregation, epoch: 146, train loss: 0.49320490658283234, HR: 0.3509933774834437, NDCG: 0.19049460811396113
+send para
+after send
+get end
+epoch-147 lr: 0.005
+after aggregation, epoch: 147, train loss: 0.5079008191823959, HR: 0.34701986754966885, NDCG: 0.18961530153054984
+send para
+after send
+get end
+epoch-148 lr: 0.005
+after aggregation, epoch: 148, train loss: 0.49471384286880493, HR: 0.3536423841059603, NDCG: 0.19153871161282146
+send para
+after send
+get end
+epoch-149 lr: 0.005
+after aggregation, epoch: 149, train loss: 0.5007293671369553, HR: 0.36026490066225164, NDCG: 0.1950477042327515
+send para
+after send
+get end
+epoch-150 lr: 0.005
+after aggregation, epoch: 150, train loss: 0.4878721535205841, HR: 0.3562913907284768, NDCG: 0.19399094871461223
+send para
+after send
+get end
+epoch-151 lr: 0.005
+after aggregation, epoch: 151, train loss: 0.5419822037220001, HR: 0.3615894039735099, NDCG: 0.1955779750887198
+send para
+after send
+get end
+epoch-152 lr: 0.005
+after aggregation, epoch: 152, train loss: 0.510467916727066, HR: 0.3701986754966887, NDCG: 0.20099596810704254
+send para
+after send
+get end
+epoch-153 lr: 0.005
+after aggregation, epoch: 153, train loss: 0.4871918261051178, HR: 0.3695364238410596, NDCG: 0.1992119201304567
+send para
+after send
+get end
+epoch-154 lr: 0.005
+after aggregation, epoch: 154, train loss: 0.5226668119430542, HR: 0.3675496688741722, NDCG: 0.2003252721033349
+send para
+after send
+get end
+epoch-155 lr: 0.005
+after aggregation, epoch: 155, train loss: 0.5016819536685944, HR: 0.3695364238410596, NDCG: 0.19958705595625523
+send para
+after send
+get end
+epoch-156 lr: 0.005
+after aggregation, epoch: 156, train loss: 0.471523717045784, HR: 0.37284768211920527, NDCG: 0.20331746808879284
+send para
+after send
+get end
+epoch-157 lr: 0.005
+after aggregation, epoch: 157, train loss: 0.5277297496795654, HR: 0.3649006622516556, NDCG: 0.2014919582490364
+send para
+after send
+get end
+epoch-158 lr: 0.005
+after aggregation, epoch: 158, train loss: 0.5052956342697144, HR: 0.376158940397351, NDCG: 0.20525478070035227
+send para
+after send
+get end
+epoch-159 lr: 0.005
+after aggregation, epoch: 159, train loss: 0.502767339348793, HR: 0.376158940397351, NDCG: 0.20580345152301333
+send para
+after send
+get end
+epoch-160 lr: 0.005
+after aggregation, epoch: 160, train loss: 0.5095729380846024, HR: 0.3748344370860927, NDCG: 0.20471652158163622
+send para
+after send
+get end
+epoch-161 lr: 0.005
+after aggregation, epoch: 161, train loss: 0.5194256901741028, HR: 0.3781456953642384, NDCG: 0.20636257472636968
+send para
+after send
+get end
+epoch-162 lr: 0.005
+after aggregation, epoch: 162, train loss: 0.5144110321998596, HR: 0.3801324503311258, NDCG: 0.20624490347721003
+send para
+after send
+get end
+epoch-163 lr: 0.005
+after aggregation, epoch: 163, train loss: 0.5457800030708313, HR: 0.376158940397351, NDCG: 0.20770923410567746
+send para
+after send
+get end
+epoch-164 lr: 0.005
+after aggregation, epoch: 164, train loss: 0.5050067901611328, HR: 0.37682119205298015, NDCG: 0.20491069309167523
+send para
+after send
+get end
+epoch-165 lr: 0.005
+after aggregation, epoch: 165, train loss: 0.5107302218675613, HR: 0.3827814569536424, NDCG: 0.20766308600122774
+send para
+after send
+get end
+epoch-166 lr: 0.005
+after aggregation, epoch: 166, train loss: 0.4890601187944412, HR: 0.3834437086092715, NDCG: 0.20894406377184588
+send para
+after send
+get end
+epoch-167 lr: 0.005
+after aggregation, epoch: 167, train loss: 0.4638129621744156, HR: 0.3847682119205298, NDCG: 0.20959053232525823
+send para
+after send
+get end
+epoch-168 lr: 0.005
+after aggregation, epoch: 168, train loss: 0.5044795870780945, HR: 0.39072847682119205, NDCG: 0.2109878145165539
+send para
+after send
+get end
+epoch-169 lr: 0.005
+after aggregation, epoch: 169, train loss: 0.4391361474990845, HR: 0.3847682119205298, NDCG: 0.2109757496455056
+send para
+after send
+get end
+epoch-170 lr: 0.005
+after aggregation, epoch: 170, train loss: 0.48059242963790894, HR: 0.38675496688741723, NDCG: 0.21085324408473882
+send para
+after send
+get end
+epoch-171 lr: 0.005
+after aggregation, epoch: 171, train loss: 0.5146681368350983, HR: 0.3880794701986755, NDCG: 0.21217445611201574
+send para
+after send
+get end
+epoch-172 lr: 0.005
+after aggregation, epoch: 172, train loss: 0.45509180426597595, HR: 0.38741721854304634, NDCG: 0.20989950297935234
+send para
+after send
+get end
+epoch-173 lr: 0.005
+after aggregation, epoch: 173, train loss: 0.4962805509567261, HR: 0.3973509933774834, NDCG: 0.21505922676248265
+send para
+after send
+get end
+epoch-174 lr: 0.005
+after aggregation, epoch: 174, train loss: 0.5332636088132858, HR: 0.39536423841059604, NDCG: 0.21349700473820046
+send para
+after send
+get end
+epoch-175 lr: 0.005
+after aggregation, epoch: 175, train loss: 0.48586827516555786, HR: 0.3913907284768212, NDCG: 0.21456943497886694
+send para
+after send
+get end
+epoch-176 lr: 0.005
+after aggregation, epoch: 176, train loss: 0.48671287298202515, HR: 0.3920529801324503, NDCG: 0.2144869739651262
+send para
+after send
+get end
+epoch-177 lr: 0.005
+after aggregation, epoch: 177, train loss: 0.4827786684036255, HR: 0.3880794701986755, NDCG: 0.21334888739640134
+send para
+after send
+get end
+epoch-178 lr: 0.005
+after aggregation, epoch: 178, train loss: 0.4636872708797455, HR: 0.3933774834437086, NDCG: 0.21405714449364643
+send para
+after send
+get end
+epoch-179 lr: 0.005
+after aggregation, epoch: 179, train loss: 0.49532121419906616, HR: 0.3966887417218543, NDCG: 0.21576414731847196
+send para
+after send
+get end
+epoch-180 lr: 0.005
+after aggregation, epoch: 180, train loss: 0.4801921993494034, HR: 0.39933774834437086, NDCG: 0.21549750438837226
+send para
+after send
+get end
+epoch-181 lr: 0.005
+after aggregation, epoch: 181, train loss: 0.4966934025287628, HR: 0.40066225165562913, NDCG: 0.21692245951494593
+send para
+after send
+get end
+epoch-182 lr: 0.005
+after aggregation, epoch: 182, train loss: 0.5111209154129028, HR: 0.39602649006622515, NDCG: 0.21717409959971526
+send para
+after send
+get end
+epoch-183 lr: 0.005
+after aggregation, epoch: 183, train loss: 0.5261026322841644, HR: 0.39933774834437086, NDCG: 0.2174120011028772
+send para
+after send
+get end
+epoch-184 lr: 0.005
+after aggregation, epoch: 184, train loss: 0.509630873799324, HR: 0.4052980132450331, NDCG: 0.21973979283713535
+send para
+after send
+get end
+epoch-185 lr: 0.005
+after aggregation, epoch: 185, train loss: 0.47976362705230713, HR: 0.4019867549668874, NDCG: 0.21877368255577412
+send para
+after send
+get end
+epoch-186 lr: 0.005
+after aggregation, epoch: 186, train loss: 0.44856971502304077, HR: 0.4099337748344371, NDCG: 0.22139178079517535
+send para
+after send
+get end
+epoch-187 lr: 0.005
+after aggregation, epoch: 187, train loss: 0.45583993196487427, HR: 0.4112582781456954, NDCG: 0.22066609584105798
+send para
+after send
+get end
+epoch-188 lr: 0.005
+after aggregation, epoch: 188, train loss: 0.49416661262512207, HR: 0.4119205298013245, NDCG: 0.22242617523472888
+send para
+after send
+get end
+epoch-189 lr: 0.005
+after aggregation, epoch: 189, train loss: 0.48406051099300385, HR: 0.4052980132450331, NDCG: 0.21943294235504596
+send para
+after send
+get end
+epoch-190 lr: 0.005
+after aggregation, epoch: 190, train loss: 0.5057467967271805, HR: 0.41324503311258276, NDCG: 0.22180326255782773
+send para
+after send
+get end
+epoch-191 lr: 0.005
+after aggregation, epoch: 191, train loss: 0.4732377380132675, HR: 0.41456953642384103, NDCG: 0.22217256841765853
+send para
+after send
+get end
+epoch-192 lr: 0.005
+after aggregation, epoch: 192, train loss: 0.5073214024305344, HR: 0.4119205298013245, NDCG: 0.22143069899518733
+send para
+after send
+get end
+epoch-193 lr: 0.005
+after aggregation, epoch: 193, train loss: 0.4398888945579529, HR: 0.41456953642384103, NDCG: 0.221990928219837
+send para
+after send
+get end
+epoch-194 lr: 0.005
+after aggregation, epoch: 194, train loss: 0.5025036334991455, HR: 0.40927152317880794, NDCG: 0.221187649637257
+send para
+after send
+get end
+epoch-195 lr: 0.005
+after aggregation, epoch: 195, train loss: 0.4969625622034073, HR: 0.4165562913907285, NDCG: 0.22349773272265003
+send para
+after send
+get end
+epoch-196 lr: 0.005
+after aggregation, epoch: 196, train loss: 0.46980366110801697, HR: 0.4152317880794702, NDCG: 0.22329782347408034
+send para
+after send
+get end
+epoch-197 lr: 0.005
+after aggregation, epoch: 197, train loss: 0.4779020845890045, HR: 0.4139072847682119, NDCG: 0.22289609932919477
+send para
+after send
+get end
+epoch-198 lr: 0.005
+after aggregation, epoch: 198, train loss: 0.49317167699337006, HR: 0.41456953642384103, NDCG: 0.22373547642647018
+send para
+after send
+get end
+epoch-199 lr: 0.005
+after aggregation, epoch: 199, train loss: 0.49588683247566223, HR: 0.4139072847682119, NDCG: 0.22349255146888897
+send para
+after send
+get end
+epoch-200 lr: 0.005
+after aggregation, epoch: 200, train loss: 0.46462808549404144, HR: 0.41788079470198675, NDCG: 0.2243287355447762
+send para
+after send
+get end
+epoch-201 lr: 0.005
+after aggregation, epoch: 201, train loss: 0.4827638864517212, HR: 0.4205298013245033, NDCG: 0.22572165793012355
+send para
+after send
+get end
+epoch-202 lr: 0.005
+after aggregation, epoch: 202, train loss: 0.5081600248813629, HR: 0.42251655629139073, NDCG: 0.22599518621592374
+send para
+after send
+get end
+epoch-203 lr: 0.005
+after aggregation, epoch: 203, train loss: 0.46277183294296265, HR: 0.42119205298013246, NDCG: 0.22587494247174306
+send para
+after send
+get end
+epoch-204 lr: 0.005
+after aggregation, epoch: 204, train loss: 0.4375389963388443, HR: 0.42251655629139073, NDCG: 0.22562871179078894
+send para
+after send
+get end
+epoch-205 lr: 0.005
+after aggregation, epoch: 205, train loss: 0.4768909364938736, HR: 0.4198675496688742, NDCG: 0.22494683462144963
+send para
+after send
+get end
+epoch-206 lr: 0.005
+after aggregation, epoch: 206, train loss: 0.46807511150836945, HR: 0.419205298013245, NDCG: 0.2271815864378742
+send para
+after send
+get end
+epoch-207 lr: 0.005
+after aggregation, epoch: 207, train loss: 0.465518057346344, HR: 0.423841059602649, NDCG: 0.2266366573647312
+send para
+after send
+get end
+epoch-208 lr: 0.005
+after aggregation, epoch: 208, train loss: 0.49585023522377014, HR: 0.42185430463576157, NDCG: 0.22693121615557965
+send para
+after send
+get end
+epoch-209 lr: 0.005
+after aggregation, epoch: 209, train loss: 0.46718646585941315, HR: 0.42119205298013246, NDCG: 0.22688664358771887
+send para
+after send
+get end
+epoch-210 lr: 0.005
+after aggregation, epoch: 210, train loss: 0.5108638405799866, HR: 0.42185430463576157, NDCG: 0.2263592440445988
+send para
+after send
+get end
+epoch-211 lr: 0.005
+after aggregation, epoch: 211, train loss: 0.5055994093418121, HR: 0.42317880794701984, NDCG: 0.22856012323566088
+send para
+after send
+get end
+epoch-212 lr: 0.005
+after aggregation, epoch: 212, train loss: 0.47134876251220703, HR: 0.428476821192053, NDCG: 0.22840772094055992
+send para
+after send
+get end
+epoch-213 lr: 0.005
+after aggregation, epoch: 213, train loss: 0.46164965629577637, HR: 0.4291390728476821, NDCG: 0.22915057934386682
+send para
+after send
+get end
+epoch-214 lr: 0.005
+after aggregation, epoch: 214, train loss: 0.5069005936384201, HR: 0.42185430463576157, NDCG: 0.22802027172734388
+send para
+after send
+get end
+epoch-215 lr: 0.005
+after aggregation, epoch: 215, train loss: 0.48041731119155884, HR: 0.428476821192053, NDCG: 0.23101741707718162
+send para
+after send
+get end
+epoch-216 lr: 0.005
+after aggregation, epoch: 216, train loss: 0.4666498899459839, HR: 0.42317880794701984, NDCG: 0.22923569079088027
+send para
+after send
+get end
+epoch-217 lr: 0.005
+after aggregation, epoch: 217, train loss: 0.515116810798645, HR: 0.42582781456953644, NDCG: 0.23001252035411712
+send para
+after send
+get end
+epoch-218 lr: 0.005
+after aggregation, epoch: 218, train loss: 0.46514172852039337, HR: 0.42317880794701984, NDCG: 0.22879264934994958
+send para
+after send
+get end
+epoch-219 lr: 0.005
+after aggregation, epoch: 219, train loss: 0.519633561372757, HR: 0.423841059602649, NDCG: 0.22947079535611334
+send para
+after send
+get end
+epoch-220 lr: 0.005
+after aggregation, epoch: 220, train loss: 0.48717960715293884, HR: 0.4251655629139073, NDCG: 0.2291429185830761
+send para
+after send
+get end
+epoch-221 lr: 0.005
+after aggregation, epoch: 221, train loss: 0.48116062581539154, HR: 0.41721854304635764, NDCG: 0.2276264064803818
+send para
+after send
+get end
+epoch-222 lr: 0.005
+after aggregation, epoch: 222, train loss: 0.5022572726011276, HR: 0.4251655629139073, NDCG: 0.22990525188421293
+send para
+after send
+get end
+epoch-223 lr: 0.005
+after aggregation, epoch: 223, train loss: 0.48846426606178284, HR: 0.4278145695364238, NDCG: 0.2315128565399464
+send para
+after send
+get end
+epoch-224 lr: 0.005
+after aggregation, epoch: 224, train loss: 0.4591279476881027, HR: 0.42582781456953644, NDCG: 0.2307358787173423
+send para
+after send
+get end
+epoch-225 lr: 0.005
+after aggregation, epoch: 225, train loss: 0.4586265832185745, HR: 0.4278145695364238, NDCG: 0.23040113301730455
+send para
+after send
+get end
+epoch-226 lr: 0.005
+after aggregation, epoch: 226, train loss: 0.4584691673517227, HR: 0.4251655629139073, NDCG: 0.23054990301120784
+send para
+after send
+get end
+epoch-227 lr: 0.005
+after aggregation, epoch: 227, train loss: 0.4645330011844635, HR: 0.42649006622516555, NDCG: 0.23034754510474573
+send para
+after send
+get end
+epoch-228 lr: 0.005
+after aggregation, epoch: 228, train loss: 0.47751742601394653, HR: 0.423841059602649, NDCG: 0.23170594820034765
+send para
+after send
+get end
+epoch-229 lr: 0.005
+after aggregation, epoch: 229, train loss: 0.4792718440294266, HR: 0.42980132450331127, NDCG: 0.23316440638333086
+send para
+after send
+get end
+epoch-230 lr: 0.005
+after aggregation, epoch: 230, train loss: 0.4766031354665756, HR: 0.428476821192053, NDCG: 0.23288703550119788
+send para
+after send
+get end
+epoch-231 lr: 0.005
+after aggregation, epoch: 231, train loss: 0.43340690433979034, HR: 0.42980132450331127, NDCG: 0.23306044998432093
+send para
+after send
+get end
+epoch-232 lr: 0.005
+after aggregation, epoch: 232, train loss: 0.48471735417842865, HR: 0.4304635761589404, NDCG: 0.23296432549034082
+send para
+after send
+get end
+epoch-233 lr: 0.005
+after aggregation, epoch: 233, train loss: 0.43293315172195435, HR: 0.4278145695364238, NDCG: 0.23284979519191254
+send para
+after send
+get end
+epoch-234 lr: 0.005
+after aggregation, epoch: 234, train loss: 0.5268455147743225, HR: 0.4304635761589404, NDCG: 0.23385972931317284
+send para
+after send
+get end
+epoch-235 lr: 0.005
+after aggregation, epoch: 235, train loss: 0.4915589690208435, HR: 0.42649006622516555, NDCG: 0.23267916576791692
+send para
+after send
+get end
+epoch-236 lr: 0.005
+after aggregation, epoch: 236, train loss: 0.4820418059825897, HR: 0.43112582781456954, NDCG: 0.2336527246400437
+send para
+after send
+get end
+epoch-237 lr: 0.005
+after aggregation, epoch: 237, train loss: 0.4504663199186325, HR: 0.43178807947019865, NDCG: 0.23358510261139598
+send para
+after send
+get end
+epoch-238 lr: 0.005
+after aggregation, epoch: 238, train loss: 0.47369492053985596, HR: 0.4304635761589404, NDCG: 0.2349656436582714
+send para
+after send
+get end
+epoch-239 lr: 0.005
+after aggregation, epoch: 239, train loss: 0.44425244629383087, HR: 0.4278145695364238, NDCG: 0.23387505054704524
+send para
+after send
+get end
+epoch-240 lr: 0.005
+after aggregation, epoch: 240, train loss: 0.4918537735939026, HR: 0.4324503311258278, NDCG: 0.234947200224767
+send para
+after send
+get end
+epoch-241 lr: 0.005
+after aggregation, epoch: 241, train loss: 0.4502330422401428, HR: 0.43178807947019865, NDCG: 0.2367774420557037
+send para
+after send
+get end
+epoch-242 lr: 0.005
+after aggregation, epoch: 242, train loss: 0.4525253176689148, HR: 0.43178807947019865, NDCG: 0.23510264154418334
+send para
+after send
+get end
+epoch-243 lr: 0.005
+after aggregation, epoch: 243, train loss: 0.4364890158176422, HR: 0.43443708609271525, NDCG: 0.2369075682590015
+send para
+after send
+get end
+epoch-244 lr: 0.005
+after aggregation, epoch: 244, train loss: 0.4984124004840851, HR: 0.43973509933774835, NDCG: 0.23951676499627111
+send para
+after send
+get end
+epoch-245 lr: 0.005
+after aggregation, epoch: 245, train loss: 0.4663979858160019, HR: 0.4337748344370861, NDCG: 0.2372537281028679
+send para
+after send
+get end
+epoch-246 lr: 0.005
+after aggregation, epoch: 246, train loss: 0.4819197654724121, HR: 0.433112582781457, NDCG: 0.236796416815901
+send para
+after send
+get end
+epoch-247 lr: 0.005
+after aggregation, epoch: 247, train loss: 0.4720257371664047, HR: 0.433112582781457, NDCG: 0.23720182839748283
+send para
+after send
+get end
+epoch-248 lr: 0.005
+after aggregation, epoch: 248, train loss: 0.4610309451818466, HR: 0.43509933774834436, NDCG: 0.2380856538998316
+send para
+after send
+get end
+epoch-249 lr: 0.005
+after aggregation, epoch: 249, train loss: 0.4684423804283142, HR: 0.44039735099337746, NDCG: 0.23913513106987566
+send para
+after send
+get end
+epoch-250 lr: 0.005
+after aggregation, epoch: 250, train loss: 0.4654717445373535, HR: 0.4384105960264901, NDCG: 0.23867245171464968
+send para
+after send
+get end
+epoch-251 lr: 0.005
+after aggregation, epoch: 251, train loss: 0.4669595956802368, HR: 0.4357615894039735, NDCG: 0.2381066781066415
+send para
+after send
+get end
+epoch-252 lr: 0.005
+after aggregation, epoch: 252, train loss: 0.4426541179418564, HR: 0.44304635761589406, NDCG: 0.23967947564275488
+send para
+after send
+get end
+epoch-253 lr: 0.005
+after aggregation, epoch: 253, train loss: 0.42748187482357025, HR: 0.4417218543046358, NDCG: 0.23901157884078347
+send para
+after send
+get end
+epoch-254 lr: 0.005
+after aggregation, epoch: 254, train loss: 0.46746066212654114, HR: 0.4410596026490066, NDCG: 0.24010369602915993
+send para
+after send
+get end
+epoch-255 lr: 0.005
+after aggregation, epoch: 255, train loss: 0.47177937626838684, HR: 0.44370860927152317, NDCG: 0.2400484901049864
+send para
+after send
+get end
+epoch-256 lr: 0.005
+after aggregation, epoch: 256, train loss: 0.4526284635066986, HR: 0.4423841059602649, NDCG: 0.24093559391902425
+send para
+after send
+get end
+epoch-257 lr: 0.005
+after aggregation, epoch: 257, train loss: 0.45230841636657715, HR: 0.4410596026490066, NDCG: 0.23953512668471133
+send para
+after send
+get end
+epoch-258 lr: 0.005
+after aggregation, epoch: 258, train loss: 0.448321670293808, HR: 0.4357615894039735, NDCG: 0.2373565416421864
+send para
+after send
+get end
+epoch-259 lr: 0.005
+after aggregation, epoch: 259, train loss: 0.464243620634079, HR: 0.43973509933774835, NDCG: 0.23831553525802945
+send para
+after send
+get end
+epoch-260 lr: 0.005
+after aggregation, epoch: 260, train loss: 0.46105748414993286, HR: 0.4377483443708609, NDCG: 0.23823968042989474
+send para
+after send
+get end
+epoch-261 lr: 0.005
+after aggregation, epoch: 261, train loss: 0.41462400555610657, HR: 0.4423841059602649, NDCG: 0.2399438532681088
+send para
+after send
+get end
+epoch-262 lr: 0.005
+after aggregation, epoch: 262, train loss: 0.3954301178455353, HR: 0.4357615894039735, NDCG: 0.2373100948313834
+send para
+after send
+get end
+epoch-263 lr: 0.005
+after aggregation, epoch: 263, train loss: 0.4959675222635269, HR: 0.43509933774834436, NDCG: 0.23751137761876057
+send para
+after send
+get end
+epoch-264 lr: 0.005
+after aggregation, epoch: 264, train loss: 0.4558119922876358, HR: 0.43443708609271525, NDCG: 0.2375520133735432
+send para
+after send
+get end
+epoch-265 lr: 0.005
+after aggregation, epoch: 265, train loss: 0.426593542098999, HR: 0.43642384105960264, NDCG: 0.23732097846834488
+send para
+after send
+get end
+epoch-266 lr: 0.005
+after aggregation, epoch: 266, train loss: 0.4282110929489136, HR: 0.43509933774834436, NDCG: 0.23609752984837076
+send para
+after send
+get end
+epoch-267 lr: 0.005
+after aggregation, epoch: 267, train loss: 0.4522235244512558, HR: 0.4337748344370861, NDCG: 0.23614969002444608
+send para
+after send
+get end
+epoch-268 lr: 0.005
+after aggregation, epoch: 268, train loss: 0.4612019509077072, HR: 0.4370860927152318, NDCG: 0.2385883785939713
+send para
+after send
+get end
+epoch-269 lr: 0.005
+after aggregation, epoch: 269, train loss: 0.4713725745677948, HR: 0.4357615894039735, NDCG: 0.2377502328090573
+send para
+after send
+get end
+epoch-270 lr: 0.005
+after aggregation, epoch: 270, train loss: 0.4635056108236313, HR: 0.43509933774834436, NDCG: 0.23781294636227665
+send para
+after send
+get end
+epoch-271 lr: 0.005
+after aggregation, epoch: 271, train loss: 0.4554479122161865, HR: 0.4337748344370861, NDCG: 0.23692885796019603
+send para
+after send
+get end
+epoch-272 lr: 0.005
+after aggregation, epoch: 272, train loss: 0.4271692633628845, HR: 0.4384105960264901, NDCG: 0.23843389832144438
+send para
+after send
+get end
+epoch-273 lr: 0.005
+after aggregation, epoch: 273, train loss: 0.4648131877183914, HR: 0.4357615894039735, NDCG: 0.23770314518293842
+send para
+after send
+get end
+epoch-274 lr: 0.005
+after aggregation, epoch: 274, train loss: 0.4231332987546921, HR: 0.4377483443708609, NDCG: 0.2380983206930685
+send para
+after send
+get end
+epoch-275 lr: 0.005
+after aggregation, epoch: 275, train loss: 0.45158563554286957, HR: 0.4324503311258278, NDCG: 0.23667643206038522
+send para
+after send
+get end
+epoch-276 lr: 0.005
+after aggregation, epoch: 276, train loss: 0.4265804886817932, HR: 0.4370860927152318, NDCG: 0.23836809696431885
+send para
+after send
+get end
+epoch-277 lr: 0.005
+after aggregation, epoch: 277, train loss: 0.48194272816181183, HR: 0.4324503311258278, NDCG: 0.2367996314900781
+send para
+after send
+get end
+epoch-278 lr: 0.005
+after aggregation, epoch: 278, train loss: 0.43435923755168915, HR: 0.4324503311258278, NDCG: 0.23613218327345756
+send para
+after send
+get end
+epoch-279 lr: 0.005
+after aggregation, epoch: 279, train loss: 0.4541736841201782, HR: 0.4357615894039735, NDCG: 0.23718074812520507
+send para
+after send
+get end
+epoch-280 lr: 0.005
+after aggregation, epoch: 280, train loss: 0.4224473536014557, HR: 0.4337748344370861, NDCG: 0.23804581457513996
+send para
+after send
+get end
+epoch-281 lr: 0.005
+after aggregation, epoch: 281, train loss: 0.4360932856798172, HR: 0.4357615894039735, NDCG: 0.23981829250969486
+send para
+after send
+get end
+epoch-282 lr: 0.005
+after aggregation, epoch: 282, train loss: 0.4301685094833374, HR: 0.4370860927152318, NDCG: 0.23856452827932909
+send para
+after send
+get end
+epoch-283 lr: 0.005
+after aggregation, epoch: 283, train loss: 0.4561879336833954, HR: 0.433112582781457, NDCG: 0.23792869081518647
+send para
+after send
+get end
+epoch-284 lr: 0.005
+after aggregation, epoch: 284, train loss: 0.45612597465515137, HR: 0.43443708609271525, NDCG: 0.23683775559684883
+send para
+after send
+get end
+epoch-285 lr: 0.005
+after aggregation, epoch: 285, train loss: 0.437390074133873, HR: 0.4337748344370861, NDCG: 0.23714696387656314
+send para
+after send
+get end
+epoch-286 lr: 0.005
+after aggregation, epoch: 286, train loss: 0.4319455623626709, HR: 0.43509933774834436, NDCG: 0.2375636879839332
+send para
+after send
+get end
+epoch-287 lr: 0.005
+after aggregation, epoch: 287, train loss: 0.4789689779281616, HR: 0.4384105960264901, NDCG: 0.23837686113339238
+send para
+after send
+get end
+epoch-288 lr: 0.005
+after aggregation, epoch: 288, train loss: 0.4935532957315445, HR: 0.4384105960264901, NDCG: 0.23797872631806435
+send para
+after send
+get end
+epoch-289 lr: 0.005
+after aggregation, epoch: 289, train loss: 0.4295953959226608, HR: 0.43973509933774835, NDCG: 0.23913791638417667
+send para
+after send
+get end
+epoch-290 lr: 0.005
+after aggregation, epoch: 290, train loss: 0.45533932745456696, HR: 0.43973509933774835, NDCG: 0.2387792692091499
+send para
+after send
+get end
+epoch-291 lr: 0.005
+after aggregation, epoch: 291, train loss: 0.4517624080181122, HR: 0.43509933774834436, NDCG: 0.23829713815722509
+send para
+after send
+get end
+epoch-292 lr: 0.005
+after aggregation, epoch: 292, train loss: 0.4902449697256088, HR: 0.43642384105960264, NDCG: 0.23869540411713444
+send para
+after send
+get end
+epoch-293 lr: 0.005
+after aggregation, epoch: 293, train loss: 0.4380076825618744, HR: 0.43443708609271525, NDCG: 0.23734816573744344
+send para
+after send
+get end
+epoch-294 lr: 0.005
+after aggregation, epoch: 294, train loss: 0.44797615706920624, HR: 0.4390728476821192, NDCG: 0.23926406358924193
+send para
+after send
+get end
+epoch-295 lr: 0.005
+after aggregation, epoch: 295, train loss: 0.43730638921260834, HR: 0.44039735099337746, NDCG: 0.23883019429098656
+send para
+after send
+get end
+epoch-296 lr: 0.005
+after aggregation, epoch: 296, train loss: 0.4570835530757904, HR: 0.44039735099337746, NDCG: 0.23844685305363741
+send para
+after send
+get end
+epoch-297 lr: 0.005
+after aggregation, epoch: 297, train loss: 0.4402555078268051, HR: 0.43642384105960264, NDCG: 0.237644719003389
+send para
+after send
+get end
+epoch-298 lr: 0.005
+after aggregation, epoch: 298, train loss: 0.4734877049922943, HR: 0.4390728476821192, NDCG: 0.23928969684989673
+send para
+after send
+get end
+epoch-299 lr: 0.005
+after aggregation, epoch: 299, train loss: 0.4068508595228195, HR: 0.4417218543046358, NDCG: 0.2401065547520483
+send para
+after send
+get end
+epoch-300 lr: 0.005
+after aggregation, epoch: 300, train loss: 0.41879090666770935, HR: 0.44503311258278144, NDCG: 0.24122878590934985
+send para
+after send
+get end
+epoch-301 lr: 0.005
+after aggregation, epoch: 301, train loss: 0.4517873376607895, HR: 0.43973509933774835, NDCG: 0.23937098507581087
+send para
+after send
+get end
+epoch-302 lr: 0.005
+after aggregation, epoch: 302, train loss: 0.4528622031211853, HR: 0.4370860927152318, NDCG: 0.2389323404504186
+send para
+after send
+get end
+epoch-303 lr: 0.005
+after aggregation, epoch: 303, train loss: 0.4407821297645569, HR: 0.4377483443708609, NDCG: 0.24022443470111196
+send para
+after send
+get end
+epoch-304 lr: 0.005
+after aggregation, epoch: 304, train loss: 0.42052900791168213, HR: 0.43642384105960264, NDCG: 0.23921944488933142
+send para
+after send
+get end
+epoch-305 lr: 0.005
+after aggregation, epoch: 305, train loss: 0.4154282957315445, HR: 0.4410596026490066, NDCG: 0.24032147923977382
+send para
+after send
+get end
+epoch-306 lr: 0.005
+after aggregation, epoch: 306, train loss: 0.45816777646541595, HR: 0.4423841059602649, NDCG: 0.2413145465324297
+send para
+after send
+get end
+epoch-307 lr: 0.005
+after aggregation, epoch: 307, train loss: 0.4614982008934021, HR: 0.4410596026490066, NDCG: 0.23985232453512628
+send para
+after send
+get end
+epoch-308 lr: 0.005
+after aggregation, epoch: 308, train loss: 0.45745962858200073, HR: 0.4423841059602649, NDCG: 0.2410454451160045
+send para
+after send
+get end
+epoch-309 lr: 0.005
+after aggregation, epoch: 309, train loss: 0.4313550144433975, HR: 0.43973509933774835, NDCG: 0.23965522466461048
+send para
+after send
+get end
+epoch-310 lr: 0.005
+after aggregation, epoch: 310, train loss: 0.4175896495580673, HR: 0.44503311258278144, NDCG: 0.2416118906699825
+send para
+after send
+get end
+epoch-311 lr: 0.005
+after aggregation, epoch: 311, train loss: 0.460899755358696, HR: 0.4417218543046358, NDCG: 0.24032713918210777
+send para
+after send
+get end
+epoch-312 lr: 0.005
+after aggregation, epoch: 312, train loss: 0.40091685950756073, HR: 0.4410596026490066, NDCG: 0.24133321720182369
+send para
+after send
+get end
+epoch-313 lr: 0.005
+after aggregation, epoch: 313, train loss: 0.4101744741201401, HR: 0.4410596026490066, NDCG: 0.2405568615798536
+send para
+after send
+get end
+epoch-314 lr: 0.005
+after aggregation, epoch: 314, train loss: 0.42321571707725525, HR: 0.44039735099337746, NDCG: 0.24003117285237244
+send para
+after send
+get end
+epoch-315 lr: 0.005
+after aggregation, epoch: 315, train loss: 0.3829880803823471, HR: 0.44039735099337746, NDCG: 0.24058000238651867
+send para
+after send
+get end
+epoch-316 lr: 0.005
+after aggregation, epoch: 316, train loss: 0.45150214433670044, HR: 0.4410596026490066, NDCG: 0.24174547020734324
+send para
+after send
+get end
+epoch-317 lr: 0.005
+after aggregation, epoch: 317, train loss: 0.45864370465278625, HR: 0.44304635761589406, NDCG: 0.242799927119096
+send para
+after send
+get end
+epoch-318 lr: 0.005
+after aggregation, epoch: 318, train loss: 0.4643310308456421, HR: 0.4417218543046358, NDCG: 0.24193022536805217
+send para
+after send
+get end
+epoch-319 lr: 0.005
+after aggregation, epoch: 319, train loss: 0.4104689210653305, HR: 0.4417218543046358, NDCG: 0.2427776375229545
+send para
+after send
+get end
+epoch-320 lr: 0.005
+after aggregation, epoch: 320, train loss: 0.422572061419487, HR: 0.44370860927152317, NDCG: 0.24272861634562592
+send para
+after send
+get end
+epoch-321 lr: 0.005
+after aggregation, epoch: 321, train loss: 0.43777085840702057, HR: 0.4410596026490066, NDCG: 0.2429653335843839
+send para
+after send
+get end
+epoch-322 lr: 0.005
+after aggregation, epoch: 322, train loss: 0.43128320574760437, HR: 0.44039735099337746, NDCG: 0.24238770166780507
+send para
+after send
+get end
+epoch-323 lr: 0.005
+after aggregation, epoch: 323, train loss: 0.49846452474594116, HR: 0.44039735099337746, NDCG: 0.24184832452407867
+send para
+after send
+get end
+epoch-324 lr: 0.005
+after aggregation, epoch: 324, train loss: 0.4896208941936493, HR: 0.44039735099337746, NDCG: 0.24224999390289229
+send para
+after send
+get end
+epoch-325 lr: 0.005
+after aggregation, epoch: 325, train loss: 0.4410828500986099, HR: 0.44437086092715233, NDCG: 0.2442370458338142
+send para
+after send
+get end
+epoch-326 lr: 0.005
+after aggregation, epoch: 326, train loss: 0.4453507512807846, HR: 0.44503311258278144, NDCG: 0.24362483701432433
+send para
+after send
+get end
+epoch-327 lr: 0.005
+after aggregation, epoch: 327, train loss: 0.44071611762046814, HR: 0.44304635761589406, NDCG: 0.24272353002983088
+send para
+after send
+get end
+epoch-328 lr: 0.005
+after aggregation, epoch: 328, train loss: 0.48883113265037537, HR: 0.44370860927152317, NDCG: 0.24313189522791853
+send para
+after send
+get end
+epoch-329 lr: 0.005
+after aggregation, epoch: 329, train loss: 0.3851493299007416, HR: 0.4417218543046358, NDCG: 0.24226810001340798
+send para
+after send
+get end
+epoch-330 lr: 0.005
+after aggregation, epoch: 330, train loss: 0.4488287568092346, HR: 0.4463576158940397, NDCG: 0.243352707208096
+send para
+after send
+get end
+epoch-331 lr: 0.005
+after aggregation, epoch: 331, train loss: 0.4154369831085205, HR: 0.44039735099337746, NDCG: 0.24156763296265804
+send para
+after send
+get end
+epoch-332 lr: 0.005
+after aggregation, epoch: 332, train loss: 0.3680528700351715, HR: 0.44503311258278144, NDCG: 0.24218343366084405
+send para
+after send
+get end
+epoch-333 lr: 0.005
+after aggregation, epoch: 333, train loss: 0.43567955493927, HR: 0.4390728476821192, NDCG: 0.24148721332490142
+send para
+after send
+get end
+epoch-334 lr: 0.005
+after aggregation, epoch: 334, train loss: 0.45808520913124084, HR: 0.4410596026490066, NDCG: 0.24200400812026238
+send para
+after send
+get end
+epoch-335 lr: 0.005
+after aggregation, epoch: 335, train loss: 0.44319096207618713, HR: 0.4390728476821192, NDCG: 0.24136340365860645
+send para
+after send
+get end
+epoch-336 lr: 0.005
+after aggregation, epoch: 336, train loss: 0.4433542788028717, HR: 0.4390728476821192, NDCG: 0.2404608744150922
+send para
+after send
+get end
+epoch-337 lr: 0.005
+after aggregation, epoch: 337, train loss: 0.44269534945487976, HR: 0.43973509933774835, NDCG: 0.24116689943777217
+send para
+after send
+get end
+epoch-338 lr: 0.005
+after aggregation, epoch: 338, train loss: 0.4026895761489868, HR: 0.44437086092715233, NDCG: 0.24260981401926562
+send para
+after send
+get end
+epoch-339 lr: 0.005
+after aggregation, epoch: 339, train loss: 0.4581315368413925, HR: 0.4410596026490066, NDCG: 0.24168102385249562
+send para
+after send
+get end
+epoch-340 lr: 0.005
+after aggregation, epoch: 340, train loss: 0.43387266993522644, HR: 0.44437086092715233, NDCG: 0.24372945299225895
+send para
+after send
+get end
+epoch-341 lr: 0.005
+after aggregation, epoch: 341, train loss: 0.44261063635349274, HR: 0.4423841059602649, NDCG: 0.2421187263496849
+send para
+after send
+get end
+epoch-342 lr: 0.005
+after aggregation, epoch: 342, train loss: 0.4635709822177887, HR: 0.43973509933774835, NDCG: 0.24147017914867003
+send para
+after send
+get end
+epoch-343 lr: 0.005
+after aggregation, epoch: 343, train loss: 0.4627688080072403, HR: 0.44370860927152317, NDCG: 0.24245367225213132
+send para
+after send
+get end
+epoch-344 lr: 0.005
+after aggregation, epoch: 344, train loss: 0.42521996796131134, HR: 0.44437086092715233, NDCG: 0.24326478869754045
+send para
+after send
+get end
+epoch-345 lr: 0.005
+after aggregation, epoch: 345, train loss: 0.41533851623535156, HR: 0.4456953642384106, NDCG: 0.24278156691948305
+send para
+after send
+get end
+epoch-346 lr: 0.005
+after aggregation, epoch: 346, train loss: 0.38072487711906433, HR: 0.44370860927152317, NDCG: 0.24249085218104946
+send para
+after send
+get end
+epoch-347 lr: 0.005
+after aggregation, epoch: 347, train loss: 0.4470813274383545, HR: 0.44437086092715233, NDCG: 0.24237078869373635
+send para
+after send
+get end
+epoch-348 lr: 0.005
+after aggregation, epoch: 348, train loss: 0.4427378475666046, HR: 0.44437086092715233, NDCG: 0.24227904780399262
+send para
+after send
+get end
+epoch-349 lr: 0.005
+after aggregation, epoch: 349, train loss: 0.4466327577829361, HR: 0.4463576158940397, NDCG: 0.24073150081130879
+send para
+after send
+get end
+epoch-350 lr: 0.005
+after aggregation, epoch: 350, train loss: 0.45642393827438354, HR: 0.44437086092715233, NDCG: 0.241995571921122
+send para
+after send
+get end
+epoch-351 lr: 0.005
+after aggregation, epoch: 351, train loss: 0.42256230115890503, HR: 0.44503311258278144, NDCG: 0.24345509535698884
+send para
+after send
+get end
+epoch-352 lr: 0.005
+after aggregation, epoch: 352, train loss: 0.44058965146541595, HR: 0.4456953642384106, NDCG: 0.242664856254895
+send para
+after send
+get end
+epoch-353 lr: 0.005
+after aggregation, epoch: 353, train loss: 0.431193470954895, HR: 0.44304635761589406, NDCG: 0.2416894190991216
+send para
+after send
+get end
+epoch-354 lr: 0.005
+after aggregation, epoch: 354, train loss: 0.4127526432275772, HR: 0.4417218543046358, NDCG: 0.24079938029964992
+send para
+after send
+get end
+epoch-355 lr: 0.005
+after aggregation, epoch: 355, train loss: 0.44916416704654694, HR: 0.44437086092715233, NDCG: 0.24208456279153853
+send para
+after send
+get end
+epoch-356 lr: 0.005
+after aggregation, epoch: 356, train loss: 0.4103254973888397, HR: 0.44437086092715233, NDCG: 0.24086796221074114
+send para
+after send
+get end
+epoch-357 lr: 0.005
+after aggregation, epoch: 357, train loss: 0.421609491109848, HR: 0.44370860927152317, NDCG: 0.2421729593280828
+send para
+after send
+get end
+epoch-358 lr: 0.005
+after aggregation, epoch: 358, train loss: 0.41255730390548706, HR: 0.4470198675496689, NDCG: 0.24244868525811783
+send para
+after send
+get end
+epoch-359 lr: 0.005
+after aggregation, epoch: 359, train loss: 0.40245579183101654, HR: 0.447682119205298, NDCG: 0.242842943135508
+send para
+after send
+get end
+epoch-360 lr: 0.005
+after aggregation, epoch: 360, train loss: 0.428134486079216, HR: 0.44503311258278144, NDCG: 0.24239762394419048
+send para
+after send
+get end
+epoch-361 lr: 0.005
+after aggregation, epoch: 361, train loss: 0.3893100768327713, HR: 0.44437086092715233, NDCG: 0.24257208543697115
+send para
+after send
+get end
+epoch-362 lr: 0.005
+after aggregation, epoch: 362, train loss: 0.42110225558280945, HR: 0.44437086092715233, NDCG: 0.24209863939028445
+send para
+after send
+get end
+epoch-363 lr: 0.005
+after aggregation, epoch: 363, train loss: 0.42903733253479004, HR: 0.447682119205298, NDCG: 0.2420789376044537
+send para
+after send
+get end
+epoch-364 lr: 0.005
+after aggregation, epoch: 364, train loss: 0.40494199097156525, HR: 0.4470198675496689, NDCG: 0.24220881898223978
+send para
+after send
+get end
+epoch-365 lr: 0.005
+after aggregation, epoch: 365, train loss: 0.43700848519802094, HR: 0.44503311258278144, NDCG: 0.24128918673724356
+send para
+after send
+get end
+epoch-366 lr: 0.005
+after aggregation, epoch: 366, train loss: 0.4535427391529083, HR: 0.44437086092715233, NDCG: 0.2414616607664947
+send para
+after send
+get end
+epoch-367 lr: 0.005
+after aggregation, epoch: 367, train loss: 0.3905738592147827, HR: 0.44437086092715233, NDCG: 0.24135891240617216
+send para
+after send
+get end
+epoch-368 lr: 0.005
+after aggregation, epoch: 368, train loss: 0.4163488745689392, HR: 0.44900662251655626, NDCG: 0.24248784053565506
+send para
+after send
+get end
+epoch-369 lr: 0.005
+after aggregation, epoch: 369, train loss: 0.4469125270843506, HR: 0.44370860927152317, NDCG: 0.24147908585088745
+send para
+after send
+get end
+epoch-370 lr: 0.005
+after aggregation, epoch: 370, train loss: 0.41046473383903503, HR: 0.4456953642384106, NDCG: 0.24171570169238787
+send para
+after send
+get end
+epoch-371 lr: 0.005
+after aggregation, epoch: 371, train loss: 0.38481405377388, HR: 0.44503311258278144, NDCG: 0.24149554684244554
+send para
+after send
+get end
+epoch-372 lr: 0.005
+after aggregation, epoch: 372, train loss: 0.37391039729118347, HR: 0.4456953642384106, NDCG: 0.24214677284409714
+send para
+after send
+get end
+epoch-373 lr: 0.005
+after aggregation, epoch: 373, train loss: 0.395576611161232, HR: 0.4463576158940397, NDCG: 0.24238344709177656
+send para
+after send
+get end
+epoch-374 lr: 0.005
+after aggregation, epoch: 374, train loss: 0.4154500514268875, HR: 0.4456953642384106, NDCG: 0.24174065940420347
+send para
+after send
+get end
+epoch-375 lr: 0.005
+after aggregation, epoch: 375, train loss: 0.4555470794439316, HR: 0.4463576158940397, NDCG: 0.24321951896956415
+send para
+after send
+get end
+epoch-376 lr: 0.005
+after aggregation, epoch: 376, train loss: 0.4584977477788925, HR: 0.44370860927152317, NDCG: 0.24215645996689042
+send para
+after send
+get end
+epoch-377 lr: 0.005
+after aggregation, epoch: 377, train loss: 0.43682920932769775, HR: 0.4456953642384106, NDCG: 0.24461824124356424
+send para
+after send
+get end
+epoch-378 lr: 0.005
+after aggregation, epoch: 378, train loss: 0.43075552582740784, HR: 0.44437086092715233, NDCG: 0.24267179023849825
+send para
+after send
+get end
+epoch-379 lr: 0.005
+after aggregation, epoch: 379, train loss: 0.4488755762577057, HR: 0.44437086092715233, NDCG: 0.24349107642165962
+send para
+after send
+get end
+epoch-380 lr: 0.005
+after aggregation, epoch: 380, train loss: 0.40363845229148865, HR: 0.44503311258278144, NDCG: 0.2431626222946182
+send para
+after send
+get end
+epoch-381 lr: 0.005
+after aggregation, epoch: 381, train loss: 0.3877696543931961, HR: 0.44900662251655626, NDCG: 0.24349881441930496
+send para
+after send
+get end
+epoch-382 lr: 0.005
+after aggregation, epoch: 382, train loss: 0.4435100555419922, HR: 0.4456953642384106, NDCG: 0.242901923412876
+send para
+after send
+get end
+epoch-383 lr: 0.005
+after aggregation, epoch: 383, train loss: 0.4466135948896408, HR: 0.4503311258278146, NDCG: 0.2445269310661982
+send para
+after send
+get end
+epoch-384 lr: 0.005
+after aggregation, epoch: 384, train loss: 0.4770333170890808, HR: 0.4470198675496689, NDCG: 0.2433337891580936
+send para
+after send
+get end
+epoch-385 lr: 0.005
+after aggregation, epoch: 385, train loss: 0.3709469735622406, HR: 0.44437086092715233, NDCG: 0.2423569270852968
+send para
+after send
+get end
+epoch-386 lr: 0.005
+after aggregation, epoch: 386, train loss: 0.41075319051742554, HR: 0.44503311258278144, NDCG: 0.24288063282214262
+send para
+after send
+get end
+epoch-387 lr: 0.005
+after aggregation, epoch: 387, train loss: 0.41234514117240906, HR: 0.4470198675496689, NDCG: 0.24362783750027925
+send para
+after send
+get end
+epoch-388 lr: 0.005
+after aggregation, epoch: 388, train loss: 0.3397355377674103, HR: 0.4463576158940397, NDCG: 0.24306948361564748
+send para
+after send
+get end
+epoch-389 lr: 0.005
+after aggregation, epoch: 389, train loss: 0.45394352078437805, HR: 0.4463576158940397, NDCG: 0.2438004216588611
+send para
+after send
+get end
+epoch-390 lr: 0.005
+after aggregation, epoch: 390, train loss: 0.43547840416431427, HR: 0.4470198675496689, NDCG: 0.2428368592283989
+send para
+after send
+get end
+epoch-391 lr: 0.005
+after aggregation, epoch: 391, train loss: 0.4550693780183792, HR: 0.4456953642384106, NDCG: 0.24318149948243162
+send para
+after send
+get end
+epoch-392 lr: 0.005
+after aggregation, epoch: 392, train loss: 0.3876270353794098, HR: 0.447682119205298, NDCG: 0.24258536479617673
+send para
+after send
+get end
+epoch-393 lr: 0.005
+after aggregation, epoch: 393, train loss: 0.41686151921749115, HR: 0.4463576158940397, NDCG: 0.24260756414292167
+send para
+after send
+get end
+epoch-394 lr: 0.005
+after aggregation, epoch: 394, train loss: 0.4220692813396454, HR: 0.4470198675496689, NDCG: 0.242476377780786
+send para
+after send
+get end
+epoch-395 lr: 0.005
+after aggregation, epoch: 395, train loss: 0.4109147936105728, HR: 0.447682119205298, NDCG: 0.2424808770006851
+send para
+after send
+get end
+epoch-396 lr: 0.005
+after aggregation, epoch: 396, train loss: 0.4460708796977997, HR: 0.4503311258278146, NDCG: 0.24435459524051245
+send para
+after send
+get end
+epoch-397 lr: 0.005
+after aggregation, epoch: 397, train loss: 0.46514075994491577, HR: 0.44900662251655626, NDCG: 0.24427009288478857
+send para
+after send
+get end
+epoch-398 lr: 0.005
+after aggregation, epoch: 398, train loss: 0.41877056658267975, HR: 0.44503311258278144, NDCG: 0.2423178389088847
+send para
+after send
+get end
+epoch-399 lr: 0.005
+after aggregation, epoch: 399, train loss: 0.42828385531902313, HR: 0.4456953642384106, NDCG: 0.2420985660979795
+send para
+after send
+get end
+epoch-400 lr: 0.005
+after aggregation, epoch: 400, train loss: 0.46226099133491516, HR: 0.44966887417218543, NDCG: 0.24295069286293272
+send para
+after send
+get end
+epoch-401 lr: 0.005
+after aggregation, epoch: 401, train loss: 0.42262665927410126, HR: 0.4470198675496689, NDCG: 0.24232025766836346
+send para
+after send
+get end
+epoch-402 lr: 0.005
+after aggregation, epoch: 402, train loss: 0.4402882307767868, HR: 0.4503311258278146, NDCG: 0.24389861406173785
+send para
+after send
+get end
+epoch-403 lr: 0.005
+after aggregation, epoch: 403, train loss: 0.4427264630794525, HR: 0.44900662251655626, NDCG: 0.24224392589886604
+send para
+after send
+get end
+epoch-404 lr: 0.005
+after aggregation, epoch: 404, train loss: 0.4679674804210663, HR: 0.4503311258278146, NDCG: 0.24426525286506642
+send para
+after send
+get end
+epoch-405 lr: 0.005
+after aggregation, epoch: 405, train loss: 0.4376722574234009, HR: 0.4503311258278146, NDCG: 0.2440906513458714
+send para
+after send
+get end
+epoch-406 lr: 0.005
+after aggregation, epoch: 406, train loss: 0.4059930741786957, HR: 0.44900662251655626, NDCG: 0.2442212472313595
+send para
+after send
+get end
+epoch-407 lr: 0.005
+after aggregation, epoch: 407, train loss: 0.39612945914268494, HR: 0.4470198675496689, NDCG: 0.24327689531095356
+send para
+after send
+get end
+epoch-408 lr: 0.005
+after aggregation, epoch: 408, train loss: 0.39402586221694946, HR: 0.44503311258278144, NDCG: 0.24279509227475296
+send para
+after send
+get end
+epoch-409 lr: 0.005
+after aggregation, epoch: 409, train loss: 0.462548166513443, HR: 0.44834437086092715, NDCG: 0.24301294385632607
+send para
+after send
+get end
+epoch-410 lr: 0.005
+after aggregation, epoch: 410, train loss: 0.4994186908006668, HR: 0.4456953642384106, NDCG: 0.24148325624572847
+send para
+after send
+get end
+epoch-411 lr: 0.005
+after aggregation, epoch: 411, train loss: 0.471566766500473, HR: 0.44834437086092715, NDCG: 0.24191847288498766
+send para
+after send
+get end
+epoch-412 lr: 0.005
+after aggregation, epoch: 412, train loss: 0.47820332646369934, HR: 0.44900662251655626, NDCG: 0.24289627795741683
+send para
+after send
+get end
+epoch-413 lr: 0.005
+after aggregation, epoch: 413, train loss: 0.4317959249019623, HR: 0.4470198675496689, NDCG: 0.24201971016642698
+send para
+after send
+get end
+epoch-414 lr: 0.005
+after aggregation, epoch: 414, train loss: 0.41844385862350464, HR: 0.4470198675496689, NDCG: 0.24256252376840845
+send para
+after send
+get end
+epoch-415 lr: 0.005
+after aggregation, epoch: 415, train loss: 0.43990352749824524, HR: 0.4470198675496689, NDCG: 0.24228893431313314
+send para
+after send
+get end
+epoch-416 lr: 0.005
+after aggregation, epoch: 416, train loss: 0.45356348156929016, HR: 0.44834437086092715, NDCG: 0.2441013804571944
+send para
+after send
+get end
+epoch-417 lr: 0.005
+after aggregation, epoch: 417, train loss: 0.4585984945297241, HR: 0.44966887417218543, NDCG: 0.24380342944056396
+send para
+after send
+get end
+epoch-418 lr: 0.005
+after aggregation, epoch: 418, train loss: 0.43858592212200165, HR: 0.4470198675496689, NDCG: 0.24239775908843886
+send para
+after send
+get end
+epoch-419 lr: 0.005
+after aggregation, epoch: 419, train loss: 0.44598767161369324, HR: 0.4463576158940397, NDCG: 0.24118547568466758
+send para
+after send
+get end
+epoch-420 lr: 0.005
+after aggregation, epoch: 420, train loss: 0.40214136242866516, HR: 0.4470198675496689, NDCG: 0.24220821488149938
+send para
+after send
+get end
+epoch-421 lr: 0.005
+after aggregation, epoch: 421, train loss: 0.3900650143623352, HR: 0.44966887417218543, NDCG: 0.24210883488376495
+send para
+after send
+get end
+epoch-422 lr: 0.005
+after aggregation, epoch: 422, train loss: 0.3944912552833557, HR: 0.447682119205298, NDCG: 0.24200999524332323
+send para
+after send
+get end
+epoch-423 lr: 0.005
+after aggregation, epoch: 423, train loss: 0.42183154821395874, HR: 0.44503311258278144, NDCG: 0.24045642301357084
+send para
+after send
+get end
+epoch-424 lr: 0.005
+after aggregation, epoch: 424, train loss: 0.46428678929805756, HR: 0.4463576158940397, NDCG: 0.24215075759329413
+send para
+after send
+get end
+epoch-425 lr: 0.005
+after aggregation, epoch: 425, train loss: 0.436078205704689, HR: 0.447682119205298, NDCG: 0.24202068483171996
+send para
+after send
+get end
+epoch-426 lr: 0.005
+after aggregation, epoch: 426, train loss: 0.45121417939662933, HR: 0.447682119205298, NDCG: 0.24189027588253367
+send para
+after send
+get end
+epoch-427 lr: 0.005
+after aggregation, epoch: 427, train loss: 0.43253858387470245, HR: 0.4463576158940397, NDCG: 0.24180812361092824
+send para
+after send
+get end
+epoch-428 lr: 0.005
+after aggregation, epoch: 428, train loss: 0.42707298696041107, HR: 0.44503311258278144, NDCG: 0.24153020170363196
+send para
+after send
+get end
+epoch-429 lr: 0.005
+after aggregation, epoch: 429, train loss: 0.35407230257987976, HR: 0.4456953642384106, NDCG: 0.24142616107897638
+send para
+after send
+get end
+epoch-430 lr: 0.005
+after aggregation, epoch: 430, train loss: 0.45905111730098724, HR: 0.44437086092715233, NDCG: 0.24143255364553884
+send para
+after send
+get end
+epoch-431 lr: 0.005
+after aggregation, epoch: 431, train loss: 0.43236754834651947, HR: 0.44370860927152317, NDCG: 0.24068310241004295
+send para
+after send
+get end
+epoch-432 lr: 0.005
+after aggregation, epoch: 432, train loss: 0.3962256610393524, HR: 0.44437086092715233, NDCG: 0.24122304453982454
+send para
+after send
+get end
+epoch-433 lr: 0.005
+after aggregation, epoch: 433, train loss: 0.41133102774620056, HR: 0.44370860927152317, NDCG: 0.24096385308975482
+send para
+after send
+get end
+epoch-434 lr: 0.005
+after aggregation, epoch: 434, train loss: 0.42503121495246887, HR: 0.4456953642384106, NDCG: 0.24230912323516937
+send para
+after send
+get end
+epoch-435 lr: 0.005
+after aggregation, epoch: 435, train loss: 0.40270407497882843, HR: 0.44370860927152317, NDCG: 0.24119315994674634
+send para
+after send
+get end
+epoch-436 lr: 0.005
+after aggregation, epoch: 436, train loss: 0.4725344032049179, HR: 0.44304635761589406, NDCG: 0.24139569714774958
+send para
+after send
+get end
+epoch-437 lr: 0.005
+after aggregation, epoch: 437, train loss: 0.46591877937316895, HR: 0.4470198675496689, NDCG: 0.24310973206041447
+send para
+after send
+get end
+epoch-438 lr: 0.005
+after aggregation, epoch: 438, train loss: 0.41756534576416016, HR: 0.44304635761589406, NDCG: 0.24114582495608278
+send para
+after send
+get end
+epoch-439 lr: 0.005
+after aggregation, epoch: 439, train loss: 0.44297121465206146, HR: 0.4423841059602649, NDCG: 0.241106954534465
+send para
+after send
+get end
+epoch-440 lr: 0.005
+after aggregation, epoch: 440, train loss: 0.4241393059492111, HR: 0.44503311258278144, NDCG: 0.24251356111548514
+send para
+after send
+get end
+epoch-441 lr: 0.005
+after aggregation, epoch: 441, train loss: 0.46000446379184723, HR: 0.4456953642384106, NDCG: 0.24319099377246858
+send para
+after send
+get end
+epoch-442 lr: 0.005
+after aggregation, epoch: 442, train loss: 0.4172879606485367, HR: 0.4456953642384106, NDCG: 0.2428923786012174
+send para
+after send
+get end
+epoch-443 lr: 0.005
+after aggregation, epoch: 443, train loss: 0.4018065631389618, HR: 0.447682119205298, NDCG: 0.2433839720336408
+send para
+after send
+get end
+epoch-444 lr: 0.005
+after aggregation, epoch: 444, train loss: 0.4238828271627426, HR: 0.44437086092715233, NDCG: 0.24246706256300526
+send para
+after send
+get end
+epoch-445 lr: 0.005
+after aggregation, epoch: 445, train loss: 0.4111197292804718, HR: 0.44039735099337746, NDCG: 0.24108289965841492
+send para
+after send
+get end
+epoch-446 lr: 0.005
+after aggregation, epoch: 446, train loss: 0.40880700945854187, HR: 0.44304635761589406, NDCG: 0.24229648999345085
+send para
+after send
+get end
+epoch-447 lr: 0.005
+after aggregation, epoch: 447, train loss: 0.3897189646959305, HR: 0.44370860927152317, NDCG: 0.24184012911961422
+send para
+after send
+get end
+epoch-448 lr: 0.005
+after aggregation, epoch: 448, train loss: 0.3733847737312317, HR: 0.44039735099337746, NDCG: 0.24156798228022092
+send para
+after send
+get end
+epoch-449 lr: 0.005
+after aggregation, epoch: 449, train loss: 0.4495016485452652, HR: 0.44370860927152317, NDCG: 0.2425503103004545
+send para
+after send
+get end
+epoch-450 lr: 0.005
+after aggregation, epoch: 450, train loss: 0.4765142649412155, HR: 0.4417218543046358, NDCG: 0.24319048295963766
+send para
+after send
+get end
+epoch-451 lr: 0.005
+after aggregation, epoch: 451, train loss: 0.40700438618659973, HR: 0.44437086092715233, NDCG: 0.24280624499647602
+send para
+after send
+get end
+epoch-452 lr: 0.005
+after aggregation, epoch: 452, train loss: 0.4482925683259964, HR: 0.44437086092715233, NDCG: 0.24332198131602714
+send para
+after send
+get end
+epoch-453 lr: 0.005
+after aggregation, epoch: 453, train loss: 0.42295946180820465, HR: 0.44304635761589406, NDCG: 0.2421838820873625
+send para
+after send
+get end
+epoch-454 lr: 0.005
+after aggregation, epoch: 454, train loss: 0.44041888415813446, HR: 0.44304635761589406, NDCG: 0.2427515210623793
+send para
+after send
+get end
+epoch-455 lr: 0.005
+after aggregation, epoch: 455, train loss: 0.3843981623649597, HR: 0.44437086092715233, NDCG: 0.24186370928615988
+send para
+after send
+get end
+epoch-456 lr: 0.005
+after aggregation, epoch: 456, train loss: 0.47045695781707764, HR: 0.44503311258278144, NDCG: 0.2434097876992929
+send para
+after send
+get end
+epoch-457 lr: 0.005
+after aggregation, epoch: 457, train loss: 0.4420672655105591, HR: 0.44370860927152317, NDCG: 0.24291917886068742
+send para
+after send
+get end
+epoch-458 lr: 0.005
+after aggregation, epoch: 458, train loss: 0.43397730588912964, HR: 0.4417218543046358, NDCG: 0.24160295584360636
+send para
+after send
+get end
+epoch-459 lr: 0.005
+after aggregation, epoch: 459, train loss: 0.4269552230834961, HR: 0.44503311258278144, NDCG: 0.2437257845092484
+send para
+after send
+get end
+epoch-460 lr: 0.005
+after aggregation, epoch: 460, train loss: 0.41604745388031006, HR: 0.4423841059602649, NDCG: 0.24279189867655038
+send para
+after send
+get end
+epoch-461 lr: 0.005
+after aggregation, epoch: 461, train loss: 0.42079290747642517, HR: 0.44437086092715233, NDCG: 0.24453308119421144
+send para
+after send
+get end
+epoch-462 lr: 0.005
+after aggregation, epoch: 462, train loss: 0.45687390863895416, HR: 0.4456953642384106, NDCG: 0.2444451656758656
+send para
+after send
+get end
+epoch-463 lr: 0.005
+after aggregation, epoch: 463, train loss: 0.48006585240364075, HR: 0.44370860927152317, NDCG: 0.24371174995962358
+send para
+after send
+get end
+epoch-464 lr: 0.005
+after aggregation, epoch: 464, train loss: 0.4317034035921097, HR: 0.4456953642384106, NDCG: 0.2438058863486465
+send para
+after send
+get end
+epoch-465 lr: 0.005
+after aggregation, epoch: 465, train loss: 0.4112812429666519, HR: 0.44503311258278144, NDCG: 0.24342793443275995
+send para
+after send
+get end
+epoch-466 lr: 0.005
+after aggregation, epoch: 466, train loss: 0.4742419570684433, HR: 0.4417218543046358, NDCG: 0.24339253604792455
+send para
+after send
+get end
+epoch-467 lr: 0.005
+after aggregation, epoch: 467, train loss: 0.4359566420316696, HR: 0.44304635761589406, NDCG: 0.2431468935287072
+send para
+after send
+get end
+epoch-468 lr: 0.005
+after aggregation, epoch: 468, train loss: 0.4901456832885742, HR: 0.44304635761589406, NDCG: 0.24247751488044814
+send para
+after send
+get end
+epoch-469 lr: 0.005
+after aggregation, epoch: 469, train loss: 0.39117036759853363, HR: 0.4456953642384106, NDCG: 0.24389966431056034
+send para
+after send
+get end
+epoch-470 lr: 0.005
+after aggregation, epoch: 470, train loss: 0.521476536989212, HR: 0.4456953642384106, NDCG: 0.2437687826313459
+send para
+after send
+get end
+epoch-471 lr: 0.005
+after aggregation, epoch: 471, train loss: 0.42428043484687805, HR: 0.44370860927152317, NDCG: 0.24350930841853688
+send para
+after send
+get end
+epoch-472 lr: 0.005
+after aggregation, epoch: 472, train loss: 0.3639678955078125, HR: 0.4410596026490066, NDCG: 0.2431977913622338
+send para
+after send
+get end
+epoch-473 lr: 0.005
+after aggregation, epoch: 473, train loss: 0.4476654827594757, HR: 0.44304635761589406, NDCG: 0.24260729960254407
+send para
+after send
+get end
+epoch-474 lr: 0.005
+after aggregation, epoch: 474, train loss: 0.45408014953136444, HR: 0.44437086092715233, NDCG: 0.24355358467335864
+send para
+after send
+get end
+epoch-475 lr: 0.005
+after aggregation, epoch: 475, train loss: 0.391893208026886, HR: 0.4456953642384106, NDCG: 0.2442367294466772
+send para
+after send
+get end
+epoch-476 lr: 0.005
+after aggregation, epoch: 476, train loss: 0.44109703600406647, HR: 0.4470198675496689, NDCG: 0.2443975472931429
+send para
+after send
+get end
+epoch-477 lr: 0.005
+after aggregation, epoch: 477, train loss: 0.44074176251888275, HR: 0.447682119205298, NDCG: 0.24401074272197512
+send para
+after send
+get end
+epoch-478 lr: 0.005
+after aggregation, epoch: 478, train loss: 0.4135717749595642, HR: 0.4503311258278146, NDCG: 0.2445828759342708
+send para
+after send
+get end
+epoch-479 lr: 0.005
+after aggregation, epoch: 479, train loss: 0.4095005542039871, HR: 0.44966887417218543, NDCG: 0.24495941076326874
+send para
+after send
+get end
+epoch-480 lr: 0.005
+after aggregation, epoch: 480, train loss: 0.37325143814086914, HR: 0.44966887417218543, NDCG: 0.24536128997660997
+send para
+after send
+get end
+epoch-481 lr: 0.005
+after aggregation, epoch: 481, train loss: 0.48816828429698944, HR: 0.447682119205298, NDCG: 0.24510468398242294
+send para
+after send
+get end
+epoch-482 lr: 0.005
+after aggregation, epoch: 482, train loss: 0.43413153290748596, HR: 0.447682119205298, NDCG: 0.2444245919455768
+send para
+after send
+get end
+epoch-483 lr: 0.005
+after aggregation, epoch: 483, train loss: 0.45390698313713074, HR: 0.4463576158940397, NDCG: 0.24464300871865932
+send para
+after send
+get end
+epoch-484 lr: 0.005
+after aggregation, epoch: 484, train loss: 0.4284253716468811, HR: 0.44437086092715233, NDCG: 0.24289781354503592
+send para
+after send
+get end
+epoch-485 lr: 0.005
+after aggregation, epoch: 485, train loss: 0.4172177314758301, HR: 0.44437086092715233, NDCG: 0.24379775946147259
+send para
+after send
+get end
+epoch-486 lr: 0.005
+after aggregation, epoch: 486, train loss: 0.4540036916732788, HR: 0.447682119205298, NDCG: 0.2442185116793269
+send para
+after send
+get end
+epoch-487 lr: 0.005
+after aggregation, epoch: 487, train loss: 0.4336840361356735, HR: 0.44834437086092715, NDCG: 0.2450140798311654
+send para
+after send
+get end
+epoch-488 lr: 0.005
+after aggregation, epoch: 488, train loss: 0.4243323802947998, HR: 0.4470198675496689, NDCG: 0.24430062198761932
+send para
+after send
+get end
+epoch-489 lr: 0.005
+after aggregation, epoch: 489, train loss: 0.47573551535606384, HR: 0.44900662251655626, NDCG: 0.2445474499146945
+send para
+after send
+get end
+epoch-490 lr: 0.005
+after aggregation, epoch: 490, train loss: 0.3809302896261215, HR: 0.447682119205298, NDCG: 0.24469348492182955
+send para
+after send
+get end
+epoch-491 lr: 0.005
+after aggregation, epoch: 491, train loss: 0.3915681838989258, HR: 0.447682119205298, NDCG: 0.24465298447717213
+send para
+after send
+get end
+epoch-492 lr: 0.005
+after aggregation, epoch: 492, train loss: 0.42862045764923096, HR: 0.4456953642384106, NDCG: 0.24303175384398296
+send para
+after send
+get end
+epoch-493 lr: 0.005
+after aggregation, epoch: 493, train loss: 0.4473527818918228, HR: 0.44834437086092715, NDCG: 0.24418900072711025
+send para
+after send
+get end
+epoch-494 lr: 0.005
+after aggregation, epoch: 494, train loss: 0.4586232602596283, HR: 0.447682119205298, NDCG: 0.24354496082887192
+send para
+after send
+get end
+epoch-495 lr: 0.005
+after aggregation, epoch: 495, train loss: 0.374073788523674, HR: 0.44834437086092715, NDCG: 0.24399827042946656
+send para
+after send
+get end
+epoch-496 lr: 0.005
+after aggregation, epoch: 496, train loss: 0.44907911121845245, HR: 0.44966887417218543, NDCG: 0.24519647903313257
+send para
+after send
+get end
+epoch-497 lr: 0.005
+after aggregation, epoch: 497, train loss: 0.4183995872735977, HR: 0.4470198675496689, NDCG: 0.24336296101789678
+send para
+after send
+get end
+epoch-498 lr: 0.005
+after aggregation, epoch: 498, train loss: 0.44090813398361206, HR: 0.4463576158940397, NDCG: 0.24431972855716946
+send para
+after send
+get end
+epoch-499 lr: 0.005
+after aggregation, epoch: 499, train loss: 0.3983708322048187, HR: 0.4456953642384106, NDCG: 0.24429691038734996
+send para
+after send
+get end
+epoch-500 lr: 0.005
+after aggregation, epoch: 500, train loss: 0.43064382672309875, HR: 0.4456953642384106, NDCG: 0.243745869277937
+send para
+after send
+get end
